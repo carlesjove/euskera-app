@@ -66,11 +66,17 @@
 
     .card-header {
       display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 16px 20px;
+      flex-direction: column;
+      gap: 10px;
+      padding: 14px 20px;
       background: var(--surface-alt);
       border-bottom: 1px solid var(--border);
+    }
+
+    .card-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
     }
 
     .direction-toggle {
@@ -116,6 +122,37 @@
     .progress-info {
       font-size: 0.8125rem;
       color: var(--text-muted);
+    }
+
+    .lesson-filter {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+
+    .lesson-filter select {
+      font-size: 0.8125rem;
+      font-family: inherit;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 3px 24px 3px 10px;
+      cursor: pointer;
+      outline: none;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%238a7a70' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 8px center;
+      transition: border-color 0.15s;
+    }
+
+    .lesson-filter select:hover,
+    .lesson-filter select:focus {
+      border-color: var(--accent);
     }
 
     .card-body {
@@ -302,17 +339,25 @@
 
   <div class="card">
     <div class="card-header">
-      <div class="direction-toggle">
-        <span class="lang-label active" id="lbl-from">Euskera</span>
-        <button class="toggle-btn" id="btn-direction" title="Invertir direcció">
-          <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
-            <path d="M2 5h12M11 2l3 3-3 3M14 11H2M5 8l-3 3 3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          Invertir
-        </button>
-        <span class="lang-label" id="lbl-to">Català</span>
+      <div class="card-header-row">
+        <div class="direction-toggle">
+          <span class="lang-label active" id="lbl-from">Euskera</span>
+          <button class="toggle-btn" id="btn-direction" title="Invertir direcció">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+              <path d="M2 5h12M11 2l3 3-3 3M14 11H2M5 8l-3 3 3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Invertir
+          </button>
+          <span class="lang-label" id="lbl-to">Català</span>
+        </div>
+        <span class="progress-info" id="progress-info">1 / 5</span>
       </div>
-      <span class="progress-info" id="progress-info">1 / 5</span>
+      <div class="card-header-row">
+        <div class="lesson-filter">
+          <span>Fins a la lliçó:</span>
+          <select id="lesson-max-select"></select>
+        </div>
+      </div>
     </div>
 
     <div class="card-body">
@@ -359,6 +404,7 @@
     const entries = [
       {
         lesson: "Lliçó 01",
+        lessonNum: 1,
         lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia01.html",
         type: "vocabulary",
         eu: "gizon",
@@ -366,6 +412,7 @@
       },
       {
         lesson: "Lliçó 01",
+        lessonNum: 1,
         lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia01.html",
         type: "vocabulary",
         eu: "emakume",
@@ -373,6 +420,7 @@
       },
       {
         lesson: "Lliçó 02",
+        lessonNum: 2,
         lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia02.html",
         type: "exercise",
         eu: "Kaixo, zer moduz zaude?",
@@ -380,6 +428,7 @@
       },
       {
         lesson: "Lliçó 02",
+        lessonNum: 2,
         lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia02.html",
         type: "exercise",
         eu: "Ongi nago, eskerrik asko.",
@@ -387,6 +436,7 @@
       },
       {
         lesson: "Lliçó 03",
+        lessonNum: 3,
         lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia03.html",
         type: "vocabulary",
         eu: "etxe",
@@ -400,30 +450,53 @@
     let currentIndex = 0;
     let direction = "eu->ca"; // or "ca->eu"
     let answerVisible = false;
+    const maxLessonNums = [...new Set(entries.map(e => e.lessonNum))].sort((a, b) => a - b);
+    let maxLesson = maxLessonNums.at(-1);
+
+    function filteredEntries() {
+      return entries.filter(e => e.lessonNum <= maxLesson);
+    }
 
     // ---------------------------------------------------------------------------
     // DOM refs
     // ---------------------------------------------------------------------------
-    const lblFrom       = document.getElementById("lbl-from");
-    const lblTo         = document.getElementById("lbl-to");
-    const btnDirection  = document.getElementById("btn-direction");
-    const progressInfo  = document.getElementById("progress-info");
-    const lessonLink    = document.getElementById("lesson-link");
-    const lessonLabel   = document.getElementById("lesson-label");
-    const entryType     = document.getElementById("entry-type");
-    const promptText    = document.getElementById("prompt-text");
-    const userInput     = document.getElementById("user-input");
-    const btnReveal     = document.getElementById("btn-reveal");
-    const btnNext       = document.getElementById("btn-next");
-    const answerBox     = document.getElementById("answer-box");
-    const answerText    = document.getElementById("answer-text");
-    const dotNav        = document.getElementById("dot-nav");
+    const lblFrom          = document.getElementById("lbl-from");
+    const lblTo            = document.getElementById("lbl-to");
+    const btnDirection     = document.getElementById("btn-direction");
+    const progressInfo     = document.getElementById("progress-info");
+    const lessonLink       = document.getElementById("lesson-link");
+    const lessonLabel      = document.getElementById("lesson-label");
+    const entryType        = document.getElementById("entry-type");
+    const promptText       = document.getElementById("prompt-text");
+    const userInput        = document.getElementById("user-input");
+    const btnReveal        = document.getElementById("btn-reveal");
+    const btnNext          = document.getElementById("btn-next");
+    const answerBox        = document.getElementById("answer-box");
+    const answerText       = document.getElementById("answer-text");
+    const dotNav           = document.getElementById("dot-nav");
+    const lessonMaxSelect  = document.getElementById("lesson-max-select");
+
+    // Populate lesson selector
+    maxLessonNums.forEach(num => {
+      const opt = document.createElement("option");
+      opt.value = num;
+      opt.textContent = num;
+      if (num === maxLesson) opt.selected = true;
+      lessonMaxSelect.appendChild(opt);
+    });
+
+    lessonMaxSelect.addEventListener("change", () => {
+      maxLesson = parseInt(lessonMaxSelect.value, 10);
+      currentIndex = 0;
+      render();
+    });
 
     // ---------------------------------------------------------------------------
     // Render
     // ---------------------------------------------------------------------------
     function render() {
-      const entry = entries[currentIndex];
+      const pool = filteredEntries();
+      const entry = pool[currentIndex];
 
       // direction labels
       if (direction === "eu->ca") {
@@ -439,7 +512,7 @@
       }
 
       // progress
-      progressInfo.textContent = `${currentIndex + 1} / ${entries.length}`;
+      progressInfo.textContent = `${currentIndex + 1} / ${pool.length}`;
 
       // lesson
       lessonLabel.textContent = entry.lesson;
@@ -466,7 +539,7 @@
 
     function renderDots() {
       dotNav.innerHTML = "";
-      entries.forEach((_, i) => {
+      filteredEntries().forEach((_, i) => {
         const dot = document.createElement("div");
         dot.className = "dot" + (i === currentIndex ? " active" : "");
         dot.addEventListener("click", () => { currentIndex = i; render(); });
@@ -488,7 +561,7 @@
     });
 
     btnNext.addEventListener("click", () => {
-      currentIndex = (currentIndex + 1) % entries.length;
+      currentIndex = (currentIndex + 1) % filteredEntries().length;
       render();
     });
 
@@ -499,7 +572,7 @@
           answerBox.classList.add("visible");
           answerVisible = true;
         } else {
-          currentIndex = (currentIndex + 1) % entries.length;
+          currentIndex = (currentIndex + 1) % filteredEntries().length;
           render();
         }
       }
