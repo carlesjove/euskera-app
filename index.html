@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Euskera — Pràctica de traducció</title>
+  <style>
+    :root {
+      --bg: #f5f0eb;
+      --surface: #ffffff;
+      --surface-alt: #f0ebe4;
+      --border: #ddd6cc;
+      --text: #2c2420;
+      --text-muted: #8a7a70;
+      --accent: #c0392b;
+      --accent-hover: #a93226;
+      --accent-light: #fdf0ee;
+      --success: #27ae60;
+      --success-light: #edfaf3;
+      --tag-bg: #ede7df;
+      --radius: 12px;
+      --radius-sm: 8px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 32px 16px 64px;
+    }
+
+    header {
+      width: 100%;
+      max-width: 640px;
+      margin-bottom: 32px;
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    header span {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    .card {
+      width: 100%;
+      max-width: 640px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      background: var(--surface-alt);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .direction-toggle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .lang-label {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 20px;
+      background: var(--tag-bg);
+      color: var(--text-muted);
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .lang-label.active {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .toggle-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 4px 10px;
+      cursor: pointer;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      transition: border-color 0.15s, color 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .toggle-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .progress-info {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+
+    .card-body {
+      padding: 28px 24px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .lesson-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      background: var(--tag-bg);
+      padding: 4px 10px;
+      border-radius: 20px;
+      text-decoration: none;
+      width: fit-content;
+      transition: color 0.15s;
+    }
+
+    .lesson-tag:hover {
+      color: var(--accent);
+    }
+
+    .lesson-tag svg {
+      flex-shrink: 0;
+    }
+
+    .type-badge {
+      font-size: 0.6875rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      margin-bottom: -8px;
+    }
+
+    .prompt-text {
+      font-size: 1.375rem;
+      font-weight: 500;
+      line-height: 1.5;
+      color: var(--text);
+    }
+
+    .input-area {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .input-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 80px;
+      padding: 12px 14px;
+      font-size: 1rem;
+      font-family: inherit;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--bg);
+      color: var(--text);
+      resize: vertical;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    textarea:focus {
+      border-color: var(--accent);
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .btn-reveal {
+      padding: 10px 20px;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: var(--radius-sm);
+      font-size: 0.9375rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+
+    .btn-reveal:hover {
+      background: var(--accent-hover);
+    }
+
+    .btn-next {
+      padding: 10px 20px;
+      background: none;
+      color: var(--text-muted);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: 0.9375rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: border-color 0.15s, color 0.15s;
+      margin-left: auto;
+    }
+
+    .btn-next:hover {
+      border-color: var(--text);
+      color: var(--text);
+    }
+
+    .answer-box {
+      display: none;
+      background: var(--success-light);
+      border: 1.5px solid #a3d9b8;
+      border-radius: var(--radius-sm);
+      padding: 14px 16px;
+      gap: 8px;
+      flex-direction: column;
+    }
+
+    .answer-box.visible {
+      display: flex;
+    }
+
+    .answer-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--success);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .answer-text {
+      font-size: 1.125rem;
+      font-weight: 500;
+      color: var(--text);
+    }
+
+    .card-footer {
+      padding: 12px 20px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      gap: 8px;
+      justify-content: center;
+    }
+
+    .dot-nav {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--border);
+      cursor: pointer;
+      transition: background 0.15s, transform 0.15s;
+    }
+
+    .dot.active {
+      background: var(--accent);
+      transform: scale(1.3);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Euskera</h1>
+    <span>Pràctica de traducció</span>
+  </header>
+
+  <div class="card">
+    <div class="card-header">
+      <div class="direction-toggle">
+        <span class="lang-label active" id="lbl-from">Euskera</span>
+        <button class="toggle-btn" id="btn-direction" title="Invertir direcció">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+            <path d="M2 5h12M11 2l3 3-3 3M14 11H2M5 8l-3 3 3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Invertir
+        </button>
+        <span class="lang-label" id="lbl-to">Català</span>
+      </div>
+      <span class="progress-info" id="progress-info">1 / 5</span>
+    </div>
+
+    <div class="card-body">
+      <a class="lesson-tag" id="lesson-link" href="#" target="_blank">
+        <svg width="12" height="12" viewBox="0 0 16 16" fill="none">
+          <path d="M2 3h12v10H2z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M5 7h6M5 10h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          <path d="M2 6h12" stroke="currentColor" stroke-width="1.5"/>
+        </svg>
+        <span id="lesson-label">Lliçó 01</span>
+      </a>
+
+      <div>
+        <div class="type-badge" id="entry-type">Vocabulari</div>
+        <div class="prompt-text" id="prompt-text"></div>
+      </div>
+
+      <div class="input-area">
+        <div class="input-label">La teva traducció</div>
+        <textarea id="user-input" placeholder="Escriu la traducció aquí…" spellcheck="false"></textarea>
+      </div>
+
+      <div class="actions">
+        <button class="btn-reveal" id="btn-reveal">Mostrar resposta</button>
+        <button class="btn-next" id="btn-next">Següent →</button>
+      </div>
+
+      <div class="answer-box" id="answer-box">
+        <div class="answer-label">Traducció correcta</div>
+        <div class="answer-text" id="answer-text"></div>
+      </div>
+    </div>
+
+    <div class="card-footer">
+      <div class="dot-nav" id="dot-nav"></div>
+    </div>
+  </div>
+
+  <script>
+    // ---------------------------------------------------------------------------
+    // Data
+    // Each entry: { lesson, lessonUrl, type: "vocabulary"|"exercise", eu, ca }
+    // ---------------------------------------------------------------------------
+    const entries = [
+      {
+        lesson: "Lliçó 01",
+        lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia01.html",
+        type: "vocabulary",
+        eu: "gizon",
+        ca: "home",
+      },
+      {
+        lesson: "Lliçó 01",
+        lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia01.html",
+        type: "vocabulary",
+        eu: "emakume",
+        ca: "dona",
+      },
+      {
+        lesson: "Lliçó 02",
+        lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+        type: "exercise",
+        eu: "Kaixo, zer moduz zaude?",
+        ca: "Hola, com estàs?",
+      },
+      {
+        lesson: "Lliçó 02",
+        lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+        type: "exercise",
+        eu: "Ongi nago, eskerrik asko.",
+        ca: "Estic bé, moltes gràcies.",
+      },
+      {
+        lesson: "Lliçó 03",
+        lessonUrl: "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+        type: "vocabulary",
+        eu: "etxe",
+        ca: "casa",
+      },
+    ];
+
+    // ---------------------------------------------------------------------------
+    // State
+    // ---------------------------------------------------------------------------
+    let currentIndex = 0;
+    let direction = "eu->ca"; // or "ca->eu"
+    let answerVisible = false;
+
+    // ---------------------------------------------------------------------------
+    // DOM refs
+    // ---------------------------------------------------------------------------
+    const lblFrom       = document.getElementById("lbl-from");
+    const lblTo         = document.getElementById("lbl-to");
+    const btnDirection  = document.getElementById("btn-direction");
+    const progressInfo  = document.getElementById("progress-info");
+    const lessonLink    = document.getElementById("lesson-link");
+    const lessonLabel   = document.getElementById("lesson-label");
+    const entryType     = document.getElementById("entry-type");
+    const promptText    = document.getElementById("prompt-text");
+    const userInput     = document.getElementById("user-input");
+    const btnReveal     = document.getElementById("btn-reveal");
+    const btnNext       = document.getElementById("btn-next");
+    const answerBox     = document.getElementById("answer-box");
+    const answerText    = document.getElementById("answer-text");
+    const dotNav        = document.getElementById("dot-nav");
+
+    // ---------------------------------------------------------------------------
+    // Render
+    // ---------------------------------------------------------------------------
+    function render() {
+      const entry = entries[currentIndex];
+
+      // direction labels
+      if (direction === "eu->ca") {
+        lblFrom.textContent = "Euskera";
+        lblTo.textContent = "Català";
+        lblFrom.classList.add("active");
+        lblTo.classList.remove("active");
+      } else {
+        lblFrom.textContent = "Català";
+        lblTo.textContent = "Euskera";
+        lblFrom.classList.add("active");
+        lblTo.classList.remove("active");
+      }
+
+      // progress
+      progressInfo.textContent = `${currentIndex + 1} / ${entries.length}`;
+
+      // lesson
+      lessonLabel.textContent = entry.lesson;
+      lessonLink.href = entry.lessonUrl;
+
+      // type badge
+      entryType.textContent = entry.type === "vocabulary" ? "Vocabulari" : "Exercici";
+
+      // prompt
+      promptText.textContent = direction === "eu->ca" ? entry.eu : entry.ca;
+
+      // answer
+      answerText.textContent = direction === "eu->ca" ? entry.ca : entry.eu;
+
+      // reset
+      userInput.value = "";
+      answerBox.classList.remove("visible");
+      answerVisible = false;
+      userInput.focus();
+
+      // dots
+      renderDots();
+    }
+
+    function renderDots() {
+      dotNav.innerHTML = "";
+      entries.forEach((_, i) => {
+        const dot = document.createElement("div");
+        dot.className = "dot" + (i === currentIndex ? " active" : "");
+        dot.addEventListener("click", () => { currentIndex = i; render(); });
+        dotNav.appendChild(dot);
+      });
+    }
+
+    // ---------------------------------------------------------------------------
+    // Events
+    // ---------------------------------------------------------------------------
+    btnDirection.addEventListener("click", () => {
+      direction = direction === "eu->ca" ? "ca->eu" : "eu->ca";
+      render();
+    });
+
+    btnReveal.addEventListener("click", () => {
+      answerBox.classList.add("visible");
+      answerVisible = true;
+    });
+
+    btnNext.addEventListener("click", () => {
+      currentIndex = (currentIndex + 1) % entries.length;
+      render();
+    });
+
+    userInput.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && !e.shiftKey) {
+        e.preventDefault();
+        if (!answerVisible) {
+          answerBox.classList.add("visible");
+          answerVisible = true;
+        } else {
+          currentIndex = (currentIndex + 1) % entries.length;
+          render();
+        }
+      }
+    });
+
+    // ---------------------------------------------------------------------------
+    // Init
+    // ---------------------------------------------------------------------------
+    render();
+  </script>
+</body>
+</html>
