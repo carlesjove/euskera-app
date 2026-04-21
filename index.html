@@ -379,9 +379,24 @@
     let answerVisible = false;
     const maxLessonNums = [...new Set(entries.map(e => e.lessonNum))].sort((a, b) => a - b);
     let maxLesson = maxLessonNums.at(-1);
+    let queue = [];
 
     function filteredEntries() {
       return entries.filter(e => e.lessonNum <= maxLesson);
+    }
+
+    function shuffle(arr) {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function buildQueue() {
+      queue = shuffle(filteredEntries());
+      currentIndex = 0;
     }
 
     // ---------------------------------------------------------------------------
@@ -415,7 +430,7 @@
 
     lessonMaxSelect.addEventListener("change", () => {
       maxLesson = parseInt(lessonMaxSelect.value, 10);
-      currentIndex = 0;
+      buildQueue();
       render();
     });
 
@@ -423,8 +438,7 @@
     // Render
     // ---------------------------------------------------------------------------
     function render() {
-      const pool = filteredEntries();
-      const entry = pool[currentIndex];
+      const entry = queue[currentIndex];
 
       // direction labels
       if (direction === "eu->es") {
@@ -440,7 +454,7 @@
       }
 
       // progress
-      progressInfo.textContent = `${currentIndex + 1} / ${pool.length}`;
+      progressInfo.textContent = `${currentIndex + 1} / ${queue.length}`;
 
       // lesson
       lessonLabel.textContent = entry.lesson;
@@ -477,7 +491,7 @@
     });
 
     btnNext.addEventListener("click", () => {
-      currentIndex = (currentIndex + 1) % filteredEntries().length;
+      currentIndex = (currentIndex + 1) % queue.length;
       render();
     });
 
@@ -488,7 +502,7 @@
           answerBox.classList.add("visible");
           answerVisible = true;
         } else {
-          currentIndex = (currentIndex + 1) % filteredEntries().length;
+          currentIndex = (currentIndex + 1) % queue.length;
           render();
         }
       }
@@ -497,6 +511,7 @@
     // ---------------------------------------------------------------------------
     // Init
     // ---------------------------------------------------------------------------
+    buildQueue();
     render();
   </script>
 </body>
