@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:kondaira.net)",
+      "Bash(curl -sL \"https://kondaira.net/ikastaroa/TIkasgaia04.html\")",
+      "Bash(python3 -c \" import sys, html, re content = sys.stdin.read\\(\\) content = re.sub\\(r'<script[^>]*>.*?</script>', '', content, flags=re.DOTALL|re.IGNORECASE\\) content = re.sub\\(r'<style[^>]*>.*?</style>', '', content, flags=re.DOTALL|re.IGNORECASE\\) content = re.sub\\(r'<[^>]+>', ' ', content\\) content = html.unescape\\(content\\) lines = [l.strip\\(\\) for l in re.split\\(r'\\\\s{2,}|\\\\n', content\\) if l.strip\\(\\)] for l in lines: print\\(l\\) \")"
+    ]
+  }
+}
