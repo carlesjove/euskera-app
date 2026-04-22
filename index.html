@@ -190,7 +190,28 @@
       text-transform: uppercase;
       letter-spacing: 0.05em;
       color: var(--text-muted);
-      margin-bottom: -8px;
+      /*margin-bottom: -8px;*/
+    }
+
+    .type-badge.real-world {
+      color: #2980b9;
+    }
+
+    .real-world-toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .real-world-toggle input[type="checkbox"] {
+      accent-color: #2980b9;
+      width: 14px;
+      height: 14px;
+      cursor: pointer;
     }
 
     .prompt-text {
@@ -330,6 +351,10 @@
           <span>Fins a la lliçó:</span>
           <select id="lesson-max-select"></select>
         </div>
+        <label class="real-world-toggle">
+          <input type="checkbox" id="include-real-world" checked>
+          Exemples reals
+        </label>
       </div>
     </div>
 
@@ -369,7 +394,7 @@
   <script src="data.js"></script>
   <script>
     // entries loaded from data.js
-    // Each entry: { lessonNum, lesson, lessonUrl, type: "vocabulary"|"exercise", eu, es }
+    // Each entry: { lessonNum, lesson, lessonUrl, type: "vocabulary"|"exercise"|"real-world", eu, es }
 
     // ---------------------------------------------------------------------------
     // State
@@ -377,12 +402,16 @@
     let currentIndex = 0;
     let direction = "eu->es"; // or "es->eu"
     let answerVisible = false;
-    const maxLessonNums = [...new Set(entries.map(e => e.lessonNum))].sort((a, b) => a - b);
+    let includeRealWorld = true;
+    const maxLessonNums = [...new Set(entries.filter(e => e.lessonNum !== null).map(e => e.lessonNum))].sort((a, b) => a - b);
     let maxLesson = maxLessonNums.at(-1);
     let queue = [];
 
     function filteredEntries() {
-      return entries.filter(e => e.lessonNum <= maxLesson);
+      return entries.filter(e => {
+        if (e.type === "real-world") return includeRealWorld;
+        return e.lessonNum <= maxLesson;
+      });
     }
 
     function shuffle(arr) {
@@ -415,7 +444,8 @@
     const btnNext          = document.getElementById("btn-next");
     const answerBox        = document.getElementById("answer-box");
     const answerText       = document.getElementById("answer-text");
-    const lessonMaxSelect  = document.getElementById("lesson-max-select");
+    const lessonMaxSelect      = document.getElementById("lesson-max-select");
+    const includeRealWorldChk  = document.getElementById("include-real-world");
 
     // Populate lesson selector
     maxLessonNums.forEach(num => {
@@ -430,6 +460,12 @@
 
     lessonMaxSelect.addEventListener("change", () => {
       maxLesson = parseInt(lessonMaxSelect.value, 10);
+      buildQueue();
+      render();
+    });
+
+    includeRealWorldChk.addEventListener("change", () => {
+      includeRealWorld = includeRealWorldChk.checked;
       buildQueue();
       render();
     });
@@ -456,12 +492,29 @@
       // progress
       progressInfo.textContent = `${currentIndex + 1} / ${queue.length}`;
 
-      // lesson
+      // lesson tag
       lessonLabel.textContent = entry.lesson;
-      lessonLink.href = entry.lessonUrl;
+      if (entry.lessonUrl) {
+        lessonLink.href = entry.lessonUrl;
+        lessonLink.style.pointerEvents = "auto";
+        lessonLink.style.opacity = "1";
+      } else {
+        lessonLink.removeAttribute("href");
+        lessonLink.style.pointerEvents = "none";
+        lessonLink.style.opacity = "0.6";
+      }
 
       // type badge
-      entryType.textContent = entry.type === "vocabulary" ? "Vocabulari" : "Exercici";
+      if (entry.type === "vocabulary") {
+        entryType.textContent = "Vocabulari";
+        entryType.className = "type-badge";
+      } else if (entry.type === "real-world") {
+        entryType.textContent = "Exemple real";
+        entryType.className = "type-badge real-world";
+      } else {
+        entryType.textContent = "Exercici";
+        entryType.className = "type-badge";
+      }
 
       // prompt
       promptText.textContent = direction === "eu->es" ? entry.eu : entry.es;

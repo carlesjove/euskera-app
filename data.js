@@ -15814,5 +15814,13 @@ const entries = [
     "type": "exercise",
     "eu": "Jon beti berandu, noiz dauka itxaropena etortzeko? Laster ez bada etortzen, ni neu banoa!",
     "es": "Jon siempre tarde, ¿cuándo tiene la esperanza de venir? Si no viene pronto, yo yo mismo ¡ya me voy!"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/herri-urrats-euskararen-aldeko-besta-nazionala-bilakatzera-deitu-dute_2157000_102.html",
+    "type": "real-world",
+    "eu": "Herri Urrats euskararen aldeko besta nazional bilakatzera deitu dute",
+    "es": "Han fet una crida a convertir Herri Urrats en una festa nacional en favor de l'euskera."
   }
 ];
