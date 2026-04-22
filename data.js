@@ -15815,6 +15815,7 @@ const entries = [
     "eu": "Jon beti berandu, noiz dauka itxaropena etortzeko? Laster ez bada etortzen, ni neu banoa!",
     "es": "Jon siempre tarde, ¿cuándo tiene la esperanza de venir? Si no viene pronto, yo yo mismo ¡ya me voy!"
   },
+  // REAL WORLD begins //
   {
     "lessonNum": null,
     "lesson": "Exemples reals",
@@ -15822,5 +15823,61 @@ const entries = [
     "type": "real-world",
     "eu": "Herri Urrats euskararen aldeko besta nazional bilakatzera deitu dute",
     "es": "Han fet una crida a convertir Herri Urrats en una festa nacional en favor de l'euskera."
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/",
+    "type": "real-world",
+    "eu": "Gaurtik ostiralera epaituko dute Agnes Lassale irakaslea hil zuen gaztea",
+    "es": "Des d’avui fins divendres jutjaran el jove que va matar la professora Agnes Lassale"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/kultura/pantxoa-eta-peiori-emango-diete-adarra-saria_2134567_102.html",
+    "type": "real-world",
+    "eu": "Pantxoa eta Peiori emango diete Adarra saria",
+    "es": "Donaran el premi Adarra a Pantxoa i Peio"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/migratzaileen-egoera-erregularizatzeko-bulegoetan-ilararik-ez_2134568_102.html",
+    "type": "real-world",
+    "eu": "Migratzaileen egoera erregularizatzeko bulegoetan ilararik ez",
+    "es": "No hi ha cues a les oficines per regularitzar la situació dels migrants"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/jaiotza-tasaren-beherakadari-lotutako-murrizketek-nafarroako-ikastolei-eman-diete-hozkada-handiena_2134569_102.html",
+    "type": "real-world",
+    "eu": "Jaiotza tasaren beherakadari lotutako murrizketek Nafarroako ikastolei eman diete hozkada handiena",
+    "es": "Les retallades vinculades a la baixada de la natalitat han afectat sobretot les ikastoles de Navarra"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/gaurtik-ostiralera-epaituko-dute-agnes-lassale-irakaslea-hil-zuen-gaztea_2134570_102.html",
+    "type": "real-world",
+    "eu": "Gaurtik ostiralera epaituko dute Agnes Lassale irakaslea hil zuen gaztea",
+    "es": "Des d’avui fins divendres jutjaran el jove que va matar la professora Agnes Lassale"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/ekonomia/energia-eskaria-moteldu-egin-da-munduan-eta-argindar-eskaria-bizkortu_2134571_102.html",
+    "type": "real-world",
+    "eu": "Energia eskaria moteldu egin da munduan, eta argindar eskaria bizkortu",
+    "es": "La demanda d’energia s’ha alentit al món, mentre que la demanda d’electricitat s’ha accelerat"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/ekonomia/2026-urte-elektrikoa_2151725_102.html",
+    "type": "real-world",
+    "eu": "2026a, urte elektrikoa",
+    "es": "El 2026, un any elèctric"
   }
 ];
