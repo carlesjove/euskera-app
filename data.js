@@ -636,7 +636,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Ama ona da",
+    "eu": "Amona ere zaharra da",
     "es": "La abuela también es vieja."
   },
   {
@@ -644,15 +644,15 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Aita ere ona da",
-    "es": "La madre es buena"
+    "eu": "Ama ona da",
+    "es": "La madre es buena."
   },
   {
     "lessonNum": 4,
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Arantza, zer zara zu? Ni neska gaztea naiz",
+    "eu": "Aita ere ona da",
     "es": "El padre también es bueno."
   },
   {
@@ -660,7 +660,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Gorka eta Mikel, ikasle onak dira? Bai, onak dira",
+    "eu": "Arantza, zer zara zu? Ni neska gaztea naiz",
     "es": "Arantza, ¿qué eres tú? Yo soy una chica joven."
   },
   {
@@ -668,7 +668,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Aitona eta amona, zaharrak dira? Bai, jauna, zaharrak dira",
+    "eu": "Gorka eta Mikel, ikasle onak dira? Bai, onak dira",
     "es": "Gorka y Mikel, ¿son alumnos buenos? Sí, son buenos."
   },
   {
@@ -676,7 +676,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Lander ume ona da? Bai, jauna, Lander ume ona da",
+    "eu": "Aitona eta amona, zaharrak dira? Bai, jauna, zaharrak dira",
     "es": "El abuelo y la abuela, ¿son viejos? Sí, señor, son viejos."
   },
   {
@@ -684,7 +684,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Zuek ikasleak zarete, ikasle gazteak",
+    "eu": "Lander ume ona da? Bai, jauna, Lander ume ona da",
     "es": "¿Lander es un niño bueno? Sí, señor, Lander es un niño bueno."
   },
   {
@@ -692,7 +692,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Ni irakaslea naiz, irakasle zaharra",
+    "eu": "Zuek ikasleak zarete, ikasle gazteak",
     "es": "Vosotros sois alumnos, los alumnos jóvenes."
   },
   {
@@ -700,7 +700,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Mikel mutil handia da",
+    "eu": "Ni irakaslea naiz, irakasle zaharra",
     "es": "Yo soy el profesor, el profesor viejo."
   },
   {
@@ -708,7 +708,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Lander ume txikia da",
+    "eu": "Mikel mutil handia da",
     "es": "Mikel es un chico grande."
   },
   {
@@ -716,7 +716,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Arantza neska polita da",
+    "eu": "Lander ume txikia da",
     "es": "Lander es un niño pequeño."
   },
   {
@@ -724,7 +724,7 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Aitona eta amona onak dira",
+    "eu": "Arantza neska polita da",
     "es": "Arantza es una chica bonita."
   },
   {
@@ -732,8 +732,16 @@ const entries = [
     "lesson": "Lección 04. Los adjetivos.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
     "type": "exercise",
-    "eu": "Zuek ere, neska eta mutil onak zarete",
+    "eu": "Aitona eta amona onak dira",
     "es": "El abuelo y la abuela son buenos."
+  },
+  {
+    "lessonNum": 4,
+    "lesson": "Lección 04. Los adjetivos.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+    "type": "exercise",
+    "eu": "Zuek ere, neska eta mutil onak zarete",
+    "es": "Vosotros también sois chicas y chicos buenos."
   },
   {
     "lessonNum": 5,
