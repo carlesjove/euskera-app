@@ -15887,5 +15887,61 @@ const entries = [
     "type": "real-world",
     "eu": "2026a, urte elektrikoa",
     "es": "El 2026, un any elèctric"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
+    "type": "real-world",
+    "eu": "Ongi etorri. Hau euskara da",
+    "es": "Benvinguts. Això és euskara"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
+    "type": "real-world",
+    "eu": "Korrikaren hamabigarren egunaren bueltan antolatutako ekintza izan da.",
+    "es": "Ha estat una activitat organitzada al voltant del dotzè dia de la Korrika."
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
+    "type": "real-world",
+    "eu": "Gramatika pixka bat ere landu dute: «Ni Irati naiz. Zuek jatorrak zarete».",
+    "es": "També han treballat una mica de gramàtica: «Jo sóc l’Irati. Vosaltres sou amables»."
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
+    "type": "real-world",
+    "eu": "Beste ariketa batzuk egin dituzte, euskara Interneten ikasten hasteko zer baliabide dagoen ikusi dute...",
+    "es": "Han fet altres exercicis, han vist quins recursos hi ha per començar a aprendre euskara a Internet..."
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/asilo-eskatzaileentzako-urgentziazko-irtenbideak-eskatu-dituzte-gasteizko-hainbat-bizilagunek_2157018_102.html",
+    "type": "real-world",
+    "eu": "Asilo eskatzaileentzako «urgentziazko» irtenbideak eskatu dituzte Gasteizko hainbat bizilagunek",
+    "es": "Diversos veïns de Gasteiz han demanat solucions «urgents» per als sol·licitants d’asil"
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/asilo-eskatzaileentzako-urgentziazko-irtenbideak-eskatu-dituzte-gasteizko-hainbat-bizilagunek_2157018_102.html",
+    "type": "real-world",
+    "eu": "Salburua auzoko harrera sarea eratu dute errefuxiatuei laguntza emateko.",
+    "es": "Han creat una xarxa d’acollida al barri de Salburua per ajudar les persones refugiades."
+  },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/asilo-eskatzaileentzako-urgentziazko-irtenbideak-eskatu-dituzte-gasteizko-hainbat-bizilagunek_2157018_102.html",
+    "type": "real-world",
+    "eu": "Salburua auzoko bizilagun asko aspaldi ari dira antolatzen asilo eskatzaileei laguntza emateko, eta harrera sare bat osatu dute helburu horrekin.",
+    "es": "Molts veïns del barri de Salburua fa temps que s’organitzen per ajudar els sol·licitants d’asil, i amb aquest objectiu han format una xarxa d’acollida."
   }
 ];
