@@ -197,6 +197,17 @@
       color: #2980b9;
     }
 
+    .type-badge.verb {
+      color: #7d3c98;
+    }
+
+    .prompt-text.multiline,
+    .answer-text.multiline {
+      white-space: pre-wrap;
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+
     .real-world-toggle {
       display: flex;
       align-items: center;
@@ -355,6 +366,10 @@
           <input type="checkbox" id="include-real-world" checked>
           Exemples reals
         </label>
+        <label class="real-world-toggle">
+          <input type="checkbox" id="include-verbs">
+          Verbs
+        </label>
       </div>
     </div>
 
@@ -392,9 +407,9 @@
   </div>
 
   <script src="data.js"></script>
+  <script src="verbs.js"></script>
   <script>
-    // entries loaded from data.js
-    // Each entry: { lessonNum, lesson, lessonUrl, type: "vocabulary"|"exercise"|"real-world", eu, es }
+    // entries loaded from data.js, verbs from verbs.js
 
     // ---------------------------------------------------------------------------
     // State
@@ -403,13 +418,15 @@
     let direction = "eu->es"; // or "es->eu"
     let answerVisible = false;
     let includeRealWorld = true;
+    let includeVerbs = false;
     const maxLessonNums = [...new Set(entries.filter(e => e.lessonNum !== null).map(e => e.lessonNum))].sort((a, b) => a - b);
     let maxLesson = maxLessonNums.at(-1);
     let queue = [];
 
     function filteredEntries() {
-      return entries.filter(e => {
+      return [...entries, ...(includeVerbs ? verbs : [])].filter(e => {
         if (e.type === "real-world") return includeRealWorld;
+        if (e.type === "verbs") return includeVerbs && e.lessonNum <= maxLesson;
         return e.lessonNum <= maxLesson;
       });
     }
@@ -446,6 +463,7 @@
     const answerText       = document.getElementById("answer-text");
     const lessonMaxSelect      = document.getElementById("lesson-max-select");
     const includeRealWorldChk  = document.getElementById("include-real-world");
+    const includeVerbsChk      = document.getElementById("include-verbs");
 
     // Populate lesson selector
     maxLessonNums.forEach(num => {
@@ -466,6 +484,12 @@
 
     includeRealWorldChk.addEventListener("change", () => {
       includeRealWorld = includeRealWorldChk.checked;
+      buildQueue();
+      render();
+    });
+
+    includeVerbsChk.addEventListener("change", () => {
+      includeVerbs = includeVerbsChk.checked;
       buildQueue();
       render();
     });
@@ -511,16 +535,20 @@
       } else if (entry.type === "real-world") {
         entryType.textContent = "Exemple real";
         entryType.className = "type-badge real-world";
+      } else if (entry.type === "verbs") {
+        entryType.textContent = `Verb — ${entry.name}`;
+        entryType.className = "type-badge verb";
       } else {
         entryType.textContent = "Exercici";
         entryType.className = "type-badge";
       }
 
-      // prompt
+      // prompt & answer (verbs are multi-line)
+      const isVerb = entry.type === "verbs";
       promptText.textContent = direction === "eu->es" ? entry.eu : entry.es;
-
-      // answer
+      promptText.classList.toggle("multiline", isVerb);
       answerText.textContent = direction === "eu->es" ? entry.es : entry.eu;
+      answerText.classList.toggle("multiline", isVerb);
 
       // reset
       userInput.value = "";
