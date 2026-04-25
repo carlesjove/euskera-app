@@ -374,6 +374,10 @@
           <input type="checkbox" id="only-verbs">
           Només verbs
         </label>
+        <label class="real-world-toggle">
+          <input type="checkbox" id="only-vocabulary">
+          Només vocabulari
+        </label>
       </div>
     </div>
 
@@ -424,11 +428,15 @@
     let includeRealWorld = true;
     let includeVerbs = false;
     let onlyVerbs = false;
+    let onlyVocabulary = false;
     const maxLessonNums = [...new Set(entries.filter(e => e.lessonNum !== null).map(e => e.lessonNum))].sort((a, b) => a - b);
     let maxLesson = maxLessonNums.at(-1);
     let queue = [];
 
     function filteredEntries() {
+      if (onlyVocabulary) {
+        return entries.filter(e => e.type === "vocabulary" && e.lessonNum <= maxLesson);
+      }
       if (onlyVerbs) {
         return verbs.filter(e => e.lessonNum <= maxLesson);
       }
@@ -473,6 +481,7 @@
     const includeRealWorldChk  = document.getElementById("include-real-world");
     const includeVerbsChk      = document.getElementById("include-verbs");
     const onlyVerbsChk         = document.getElementById("only-verbs");
+    const onlyVocabularyChk    = document.getElementById("only-vocabulary");
 
     // Populate lesson selector
     maxLessonNums.forEach(num => {
@@ -505,6 +514,12 @@
 
     onlyVerbsChk.addEventListener("change", () => {
       onlyVerbs = onlyVerbsChk.checked;
+      buildQueue();
+      render();
+    });
+
+    onlyVocabularyChk.addEventListener("change", () => {
+      onlyVocabulary = onlyVocabularyChk.checked;
       buildQueue();
       render();
     });
