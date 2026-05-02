@@ -37,7 +37,7 @@
 
     header {
       width: 100%;
-      max-width: 640px;
+      max-width: 750px;
       margin-bottom: 32px;
       display: flex;
       align-items: baseline;
@@ -57,7 +57,7 @@
 
     .card {
       width: 100%;
-      max-width: 640px;
+      max-width: 750px;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
@@ -359,7 +359,9 @@
       </div>
       <div class="card-header-row">
         <div class="lesson-filter">
-          <span>Fins a la lliçó:</span>
+          <span>Des de:</span>
+          <select id="lesson-min-select"></select>
+          <span>Fins a:</span>
           <select id="lesson-max-select"></select>
         </div>
         <label class="real-world-toggle">
@@ -432,21 +434,26 @@
     let onlyVerbs = false;
     let onlyVocabulary = false;
     const maxLessonNums = [...new Set([...entries, ...extraVocabulary].filter(e => e.lessonNum !== null).map(e => e.lessonNum))].sort((a, b) => a - b);
+    let minLesson = maxLessonNums.at(0);
     let maxLesson = maxLessonNums.at(-1);
     let queue = [];
+
+    function inLessonRange(e) {
+      return e.lessonNum >= minLesson && e.lessonNum <= maxLesson;
+    }
 
     function filteredEntries() {
       const allEntries = [...entries, ...extraVocabulary, ...realWorld];
       if (onlyVocabulary) {
-        return allEntries.filter(e => e.type === "vocabulary" && e.lessonNum <= maxLesson);
+        return allEntries.filter(e => e.type === "vocabulary" && inLessonRange(e));
       }
       if (onlyVerbs) {
-        return verbs.filter(e => e.lessonNum <= maxLesson);
+        return verbs.filter(e => inLessonRange(e));
       }
       return [...allEntries, ...(includeVerbs ? verbs : [])].filter(e => {
         if (e.type === "real-world") return includeRealWorld;
-        if (e.type === "verbs") return includeVerbs && e.lessonNum <= maxLesson;
-        return e.lessonNum <= maxLesson;
+        if (e.type === "verbs") return includeVerbs && inLessonRange(e);
+        return inLessonRange(e);
       });
     }
 
@@ -480,13 +487,27 @@
     const btnNext          = document.getElementById("btn-next");
     const answerBox        = document.getElementById("answer-box");
     const answerText       = document.getElementById("answer-text");
+    const lessonMinSelect      = document.getElementById("lesson-min-select");
     const lessonMaxSelect      = document.getElementById("lesson-max-select");
     const includeRealWorldChk  = document.getElementById("include-real-world");
     const includeVerbsChk      = document.getElementById("include-verbs");
     const onlyVerbsChk         = document.getElementById("only-verbs");
     const onlyVocabularyChk    = document.getElementById("only-vocabulary");
 
-    // Populate lesson selector
+    // Populate lesson selectors
+    function populateMinSelect() {
+      lessonMinSelect.innerHTML = "";
+      maxLessonNums.filter(n => n <= maxLesson).forEach(num => {
+        const sample = entries.find(e => e.lessonNum === num);
+        const opt = document.createElement("option");
+        opt.value = num;
+        opt.textContent = num;
+        opt.title = sample ? sample.lesson : "";
+        if (num === minLesson) opt.selected = true;
+        lessonMinSelect.appendChild(opt);
+      });
+    }
+
     maxLessonNums.forEach(num => {
       const sample = entries.find(e => e.lessonNum === num);
       const opt = document.createElement("option");
@@ -497,8 +518,18 @@
       lessonMaxSelect.appendChild(opt);
     });
 
+    populateMinSelect();
+
+    lessonMinSelect.addEventListener("change", () => {
+      minLesson = parseInt(lessonMinSelect.value, 10);
+      buildQueue();
+      render();
+    });
+
     lessonMaxSelect.addEventListener("change", () => {
       maxLesson = parseInt(lessonMaxSelect.value, 10);
+      if (minLesson > maxLesson) minLesson = maxLesson;
+      populateMinSelect();
       buildQueue();
       render();
     });
