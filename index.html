@@ -416,8 +416,10 @@
 
   <script src="data.js"></script>
   <script src="verbs.ca.js"></script>
+  <script src="vocabulary.js"></script>
+  <script src="realworld.js"></script>
   <script>
-    // entries loaded from data.js, verbs from verbs.js
+    // entries loaded from data.js, extra vocabulary from vocabulary.js, real-world from realworld.js, verbs from verbs.ca.js
 
     // ---------------------------------------------------------------------------
     // State
@@ -429,18 +431,19 @@
     let includeVerbs = false;
     let onlyVerbs = false;
     let onlyVocabulary = false;
-    const maxLessonNums = [...new Set(entries.filter(e => e.lessonNum !== null).map(e => e.lessonNum))].sort((a, b) => a - b);
+    const maxLessonNums = [...new Set([...entries, ...extraVocabulary].filter(e => e.lessonNum !== null).map(e => e.lessonNum))].sort((a, b) => a - b);
     let maxLesson = maxLessonNums.at(-1);
     let queue = [];
 
     function filteredEntries() {
+      const allEntries = [...entries, ...extraVocabulary, ...realWorld];
       if (onlyVocabulary) {
-        return entries.filter(e => e.type === "vocabulary" && e.lessonNum <= maxLesson);
+        return allEntries.filter(e => e.type === "vocabulary" && e.lessonNum <= maxLesson);
       }
       if (onlyVerbs) {
         return verbs.filter(e => e.lessonNum <= maxLesson);
       }
-      return [...entries, ...(includeVerbs ? verbs : [])].filter(e => {
+      return [...allEntries, ...(includeVerbs ? verbs : [])].filter(e => {
         if (e.type === "real-world") return includeRealWorld;
         if (e.type === "verbs") return includeVerbs && e.lessonNum <= maxLesson;
         return e.lessonNum <= maxLesson;

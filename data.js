@@ -1,7 +1,6 @@
 const entries = [
 
   /* inici traduccions a cat */
-
   {
     "lessonNum": 2,
     "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
@@ -1607,1934 +1606,1934 @@ const entries = [
 
 
 
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "gizon",
-    "es": "hombre"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "bat",
-    "es": "uno, una"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "emakume",
-    "es": "mujer"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "batzuk",
-    "es": "unos, unas"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "mutil",
-    "es": "chico"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "-A",
-    "es": "el / la"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "neska",
-    "es": "chica"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "-AK",
-    "es": "los / las"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "ikasgai",
-    "es": "lección"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "vocabulary",
-    "eu": "eta, ta",
-    "es": "y"
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Ni gizon bat naiz. Gizona naiz.",
-    "es": "Yo soy un hombre. Soy hombre ."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Zu mutila zara. Mutil bat zara.",
-    "es": "Tú eres chico . Eres un chico."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Ni mutila naiz. Mutil bat naiz",
-    "es": "Yo soy chico . Soy un chico."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Ainara emakumea da. Hura emakume bat da",
-    "es": "Ainara es mujer. Ella es una mujer."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Ni Ainara naiz. Emakume bat naiz",
-    "es": "Yo soy Ainara. Soy una mujer."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Mikel mutila da. Hura mutil bat da",
-    "es": "Mikel es chico. Él es un chico."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Ni Mikel naiz. Mutil bat naiz",
-    "es": "Yo soy Mikel. Soy un chico."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Arantza neska da. Neska bat da",
-    "es": "Arantza es chica. Es una chica."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Ni Arantza naiz. Neska bat naiz",
-    "es": "Yo soy Arantza. Soy una chica."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Gu gizonak gara. Gizon batzuk gara",
-    "es": "Nosotros somos hombres. Somos unos hombres."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Zuek neskak zarete. Neska batzuk zarete",
-    "es": "Vosotras sois chicas. Sois unas chicas."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Ainara eta ni neskak gara",
-    "es": "Ainara y yo somos chicas."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Arantza eta Ainara neskak dira",
-    "es": "Arantza y Ainara son chicas."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Gorka eta Mikel mutilak dira. Mutil batzuk dira",
-    "es": "Gorka y Mikel son chicos. Son unos chicos."
-  },
-  {
-    "lessonNum": 2,
-    "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
-    "type": "exercise",
-    "eu": "Zu, Ainara, emakumea zara. Ni gizona naiz",
-    "es": "Tú, Ainara, eres mujer. Yo soy hombre."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "zer",
-    "es": "qué"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "ikastola",
-    "es": "escuela"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "nor",
-    "es": "quién"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "ikasgai",
-    "es": "lección"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "nortzuk",
-    "es": "quiénes"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "arratsalde",
-    "es": "tarde"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "zein",
-    "es": "cuál"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "aita",
-    "es": "padre"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "zeintzuk",
-    "es": "cuáles"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "ama",
-    "es": "madre"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "egun",
-    "es": "día"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "bai",
-    "es": "sí"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "jaun",
-    "es": "señor"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "ere",
-    "es": "también"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "andre, andere",
-    "es": "señora"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "ikasle",
-    "es": "alumno"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "irakasle",
-    "es": "profesor"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "vocabulary",
-    "eu": "gau",
-    "es": "noche"
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Nor zara zu? Ni Mikel naiz",
-    "es": "¿Quién eres tú? Yo soy Mikel."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Zer zara zu? Ni ikasle bat naiz.",
-    "es": "¿Qué eres tú? Yo soy un alumno."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Zer da Gorka? Gorka ere ikaslea da. Ikasle eta mutila",
-    "es": "¿Qué es Gorka? Gorka también es alumno. Alumno y chico."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Eta ni zer naiz? Zu irakaslea zara",
-    "es": "¿Y yo qué soy? Tú eres el profesor."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Zuek ikasleak zarete? Bai, jauna, gu ikasleak gara",
-    "es": "¿Vosotros sois alumnos? Sí, señor, nosotros somos alumnos."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Zein da irakaslea? Zu zara irakaslea. Irakaslea, zu zara",
-    "es": "¿Cuál es el profesor? Tú eres el profesor. El profesor eres tú."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Zer dira Arantza eta Nahia? Neska batzuk dira",
-    "es": "¿Qué son Arantza y Nahia ? Son unas chicas."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Haiek ere, ikasleak dira? Bai, andrea, Arantza eta Nahia ere ikasleak dira .",
-    "es": "Ellas también, ¿son alumnas? Si, señora, Arantza y Nahia también son alumnas."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Eta zu, Ainara, zer zara? Emakume bat. Ni ama naiz",
-    "es": "Y tú, Ainara, ¿qué eres? Una mujer. Yo soy la madre."
-  },
-  {
-    "lessonNum": 3,
-    "lesson": "Lección 03. Las interrogativas.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
-    "type": "exercise",
-    "eu": "Eta aita nor da? Aita Andoni da. Andoni eta ni, aita eta ama gara .",
-    "es": "¿Y quién es el padre? El padre es Andoni . Andoni y yo somos el padre y la madre."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "gazte",
-    "es": "joven"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "gaizto",
-    "es": "malo"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "zahar",
-    "es": "viejo"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "gero",
-    "es": "luego, después"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "txiki",
-    "es": "pequeño"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "gaur",
-    "es": "hoy"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "handi",
-    "es": "grande"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "aitona",
-    "es": "abuelo"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "arte",
-    "es": "hasta"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "amona",
-    "es": "abuela"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "atzo",
-    "es": "ayer"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "ume",
-    "es": "niño, niña"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "on",
-    "es": "bueno"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "polit",
-    "es": "bonito"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "txar",
-    "es": "malo"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "laster",
-    "es": "pronto"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "oker",
-    "es": "torcido, malo"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "vocabulary",
-    "eu": "bihar",
-    "es": "mañana"
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Ikasle gaztea. Ikasle gazte bat. Irakasle zaharra",
-    "es": "El alumno joven. Un alumno joven. El profesor viejo."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Andre zahar bat. Gizon handia. Emakume txikia",
-    "es": "Una señora vieja. El hombre grande. La mujer pequeña."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Mutil okerra. Neska polita. Neska gazteak",
-    "es": "El chico malo. La chica bonita. Las chicas jóvenes."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Ume onak. Gizon zaharrak. Mutil txikiak",
-    "es": "Los niños buenos. Los hombres viejos. Los chicos pequeños."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Ume txiki batzuk. Neska gazte batzuk. Ikasle on batzuk",
-    "es": "Unos niños pequeños. Unas chicas jóvenes. Unos alumnos buenos."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Gu neska gazteak gara",
-    "es": "Nosotras somos chicas jóvenes."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Gorka eta Mikel ikasle onak dira",
-    "es": "Gorka y Mikel son alumnos buenos."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Aitona zaharra da",
-    "es": "El abuelo es viejo."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Amona ere zaharra da",
-    "es": "La abuela también es vieja."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Ama ona da",
-    "es": "La madre es buena."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Aita ere ona da",
-    "es": "El padre también es bueno."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Arantza, zer zara zu? Ni neska gaztea naiz",
-    "es": "Arantza, ¿qué eres tú? Yo soy una chica joven."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Gorka eta Mikel, ikasle onak dira? Bai, onak dira",
-    "es": "Gorka y Mikel, ¿son alumnos buenos? Sí, son buenos."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Aitona eta amona, zaharrak dira? Bai, jauna, zaharrak dira",
-    "es": "El abuelo y la abuela, ¿son viejos? Sí, señor, son viejos."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Lander ume ona da? Bai, jauna, Lander ume ona da",
-    "es": "¿Lander es un niño bueno? Sí, señor, Lander es un niño bueno."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Zuek ikasleak zarete, ikasle gazteak",
-    "es": "Vosotros sois alumnos, los alumnos jóvenes."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Ni irakaslea naiz, irakasle zaharra",
-    "es": "Yo soy el profesor, el profesor viejo."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Mikel mutil handia da",
-    "es": "Mikel es un chico grande."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Lander ume txikia da",
-    "es": "Lander es un niño pequeño."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Arantza neska polita da",
-    "es": "Arantza es una chica bonita."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Aitona eta amona onak dira",
-    "es": "El abuelo y la abuela son buenos."
-  },
-  {
-    "lessonNum": 4,
-    "lesson": "Lección 04. Los adjetivos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
-    "type": "exercise",
-    "eu": "Zuek ere, neska eta mutil onak zarete",
-    "es": "Vosotros también sois chicas y chicos buenos."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "txakur",
-    "es": "perro"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "eder",
-    "es": "hermoso, bello"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "katu",
-    "es": "gato"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "itsusi",
-    "es": "feo"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "etxe",
-    "es": "casa"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "argi",
-    "es": "claro, luz"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "ate",
-    "es": "puerta"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "ilun",
-    "es": "oscuro"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "leiho",
-    "es": "ventana"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "zuri",
-    "es": "blanco"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "mahai",
-    "es": "mesa"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "vocabulary",
-    "eu": "beltz",
-    "es": "negro"
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Txakur hau. Katu hori. Etxe hura.",
-    "es": "Este perro. Ese gato. Aquella casa."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Ate hauek. Leiho horiek. Mahai haiek.",
-    "es": "Estas puertas. Esas ventanas. Aquellas mesas."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Etxe hau ederra da",
-    "es": "Esta casa es hermosa."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Mahai hori beltza da",
-    "es": "Esa mesa es negra."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Txakur hura okerra da.",
-    "es": "Aquel perro es torcido."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Katu hauek politak dira",
-    "es": "Estos gatos son bonitos."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Mutil horiek gazteak dira",
-    "es": "Esos chicos son jóvenes."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Leiho haiek txikiak dira",
-    "es": "Aquellas ventanas son pequeñas."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Zer dira haiek? Haiek txakurrak dira",
-    "es": "¿Qué son aquellos? Aquellos son perros."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Nor da hori? Hori Gorka dà",
-    "es": "¿Quién es ese? Ese es Gorka."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Nortzuk dira horiek? Horiek aita eta ama dira",
-    "es": "¿Quiénes son esos? Esos son el padre y la madre."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Nor da gizon hori? Gizon hori Andoni da",
-    "es": "¿Quién es ese hombre? Ese hombre es Andoni."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Mahai hau beltza da? Bai, jauna, mahai hori beltza da",
-    "es": "¿Esta mesa es negra? Sí, señor, esa mesa es negra."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Mutil horiek onak dira? Bai, jauna, mutil horiek onak dira",
-    "es": "¿Esos chicos son buenos? Sí, señor, esos chicos son buenos."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Txakur hori okerra da? Bai, jauna, txakur hori okerra eta gaiztoa da",
-    "es": "¿Ese perro es torcido? Sí, señor, ese perro es torcido y malo."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Etxe hau argia eta polita da",
-    "es": "Esta casa es clara y bonita."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Neska horiek gazteak dira",
-    "es": "Esas chicas son jóvenes."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Katu hori ederra da",
-    "es": "Ese gato es hermoso."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Leiho hauek txikiak dira",
-    "es": "Estas ventanas son pequeñas."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Txakur haiek beltzak dira",
-    "es": "Aquellos perros son negros."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Ate hura handia da",
-    "es": "Aquella puerta es grande."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Txakur txiki hori gaiztoa da",
-    "es": "Ese perro pequeño es malo."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Mahai beltz hau handia da",
-    "es": "Esta mesa negra es grande."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Neska gazte haiek ederrak dira",
-    "es": "Aquellas chicas jóvenes son hermosas."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Etxe ilun horiek itsusiak dira",
-    "es": "Esas casas oscuras son feas."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Katu polit hauek zuriak dira",
-    "es": "Estos gatos bonitos son blancos."
-  },
-  {
-    "lessonNum": 5,
-    "lesson": "Lección 05. Los demostrativos.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
-    "type": "exercise",
-    "eu": "Mahai handi hauek txarrak dira",
-    "es": "Estas mesas grandes son malas."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "telebista",
-    "es": "televisión"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "aulki",
-    "es": "silla"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "irrati",
-    "es": "radio"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "horma",
-    "es": "pared"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "mugikor",
-    "es": "teléfono móvil"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "teilatu",
-    "es": "tejado"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "ordenagailu",
-    "es": "ordenador"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "baino",
-    "es": "sino"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "urdin",
-    "es": "azul"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "ez",
-    "es": "no"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "ala / edo",
-    "es": "o / o"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "gorri",
-    "es": "rojo"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "ordea",
-    "es": "en cambio"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "vocabulary",
-    "eu": "berde",
-    "es": "verde"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Hori irratia da, ez da telebista",
-    "es": "Eso es la radio, no es el televisor."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Mugikor horiek txikiak dira, ez dira handiak",
-    "es": "Esos móviles son pequeños, no son grandes."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Gizon haiek gazteak dira, ez dira zaharrak",
-    "es": "Aquellos hombres son jóvenes, no son viejos."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Teilatu hau gorria da, ez da beltza",
-    "es": "Este tejado es rojo, no es negro."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Zuek mutilak eta neskak zarete, mutil eta neska gazteak",
-    "es": "Vosotros sois chicos y chicas, chicos y chicas jóvenes."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Txakur txiki hori ez da ona, okerra baino",
-    "es": "Ese perro pequeño no es bueno, sino torcido."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Lander ez da mutil handia ume txikia baino",
-    "es": "Lander no es un chico grande, sino un niño pequeño."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Zuek ez zarete ikasleak, irakasleak baino",
-    "es": "Vosotros no sois alumnos, sino profesores."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Gu ez gara zaharrak, gazteak baino",
-    "es": "Nosotros no somos viejos, sino jóvenes."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Horma hauek ez dira beltzak, zuriak baino",
-    "es": "Estas paredes no son negras, sino blancas."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Hau mahaia da? Ez, hori ez da mahaia, aulkia baino",
-    "es": "¿Esto es la mesa? No, esto no es la mesa, sino la silla"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Hori atea da? Ez, hori ez da atea, leihoa baino",
-    "es": "¿Eso es la puerta? No, eso no es la puerta, sino la ventana"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Etxe hau argia da? Ez, ez da argia, iluna baino",
-    "es": "¿Esta casa es clara? No, no es clara, sino oscura"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Zer dira horiek, mugikorrak ala ordenagailuak?",
-    "es": "¿Qué son esos, móviles u ordenadores?"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Zer gara gu, zaharrak ala gazteak?",
-    "es": "¿Qué somos nosotros, viejos o jóvenes?"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Mutil onak ala okerrak dira?",
-    "es": "¿Son chicos buenos o torcidos?"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Etxe hau polita ala itsusia da?",
-    "es": "¿Esta casa es bonita o fea?"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Telebista hura beltza da; irrati hau, ordea, zuria",
-    "es": "Aquella televisión es negra; esta radio, en cambio, blanca"
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Atea handia da; leihoa, ordea, txikia .",
-    "es": "La puerta es grande; la ventana, en cambio, pequeña."
-  },
-  {
-    "lessonNum": 6,
-    "lesson": "Lección 06. La negación.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
-    "type": "exercise",
-    "eu": "Euskal bandera, ikurriña, zuria, gorria eta berdea da",
-    "es": "La bandera vasca, la ikurriña, es blanca, roja y verde."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "bat",
-    "es": "uno"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "bi",
-    "es": "dos"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hiru",
-    "es": "tres"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "lau",
-    "es": "cuatro"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "bost",
-    "es": "cinco"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "sei",
-    "es": "seis"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "zazpi",
-    "es": "siete"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "zortzi",
-    "es": "ocho"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "bederatzi",
-    "es": "nueve"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamar",
-    "es": "diez"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamaika",
-    "es": "once"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamabi",
-    "es": "doce"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamahiru",
-    "es": "trece"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamalau",
-    "es": "catorce"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamabost",
-    "es": "quince"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamasei",
-    "es": "dieciséis"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamazazpi",
-    "es": "diecisiete"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hamazortzi",
-    "es": "dieciocho"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "hemeretzi",
-    "es": "diecinueve"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "zenbat",
-    "es": "cuánto/s"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "vocabulary",
-    "eu": "gurasoak",
-    "es": "los padres"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Ni ikasle bat naiz",
-    "es": "Yo soy un alumno."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Gu sei ikasle gara",
-    "es": "Nosotros somos seis alumnos."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Lau mutil eta bi neska gara",
-    "es": "Somos cuatro chicos y dos chicas."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Haiek hamalau dira: sei mutil eta zortzi neska",
-    "es": "Ellos son catorce: seis chicos y ocho chicas."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Hiru eta bi bost dira",
-    "es": "Tres y dos son cinco."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat dira zazpi eta bi? Zazpi eta bi bederatzi dira",
-    "es": "¿Cuántos son siete y dos? Siete y dos son nueve."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat ikasle zarete? Hamazazpi ikasle gara",
-    "es": "¿Cuántos alumnos sois? Somos diecisiete alumnos."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat dira hamar eta bederatzi? Hemeretzi dira",
-    "es": "¿Cuántos son diez y nueve? Son diecinueve."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Bost eta lau hamar dira? Ez, bost eta lau ez dira hamar, bederatzi baino",
-    "es": "¿Cinco y cuatro son diez? No, cinco y cuatro no son diez, sino nueve."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Hiru etxe gorriak dira; bat beltza da",
-    "es": "Tres casas son rojas, una es negra."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Bost ume dira: hiru mutil eta bi neska",
-    "es": "Son cinco niños: tres chicos y dos chicas."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Mahai bat eta lau aulki",
-    "es": "Una mesa y cuatro sillas."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Bi ate eta leiho bat",
-    "es": "Dos puertas y una ventana."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Hamalau telebista eta irrati bat",
-    "es": "Catorce televisiones y una radio."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Txakur handi bat eta hiru txakur txiki",
-    "es": "Un perro grande y tres perros pequeños."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Hamar eta bi, hamabi; hamar eta lau, hamalau; hamar eta sei, hamasei; hamar eta zortzi, hamazortzi",
-    "es": "Diez y dos, doce; diez y cuatro, catorce; diez y seis, dieciséis; diez y ocho, dieciocho."
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat dira hamar eta bat?",
-    "es": "¿Cuántos son diez y uno?"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat dira hamar eta hiru?",
-    "es": "¿Cuántos son diez y tres?"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat dira hamar eta bost?",
-    "es": "¿Cuántos son diez y cinco?"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat dira hamar eta zazpi?",
-    "es": "¿Cuántos son diez y siete?"
-  },
-  {
-    "lessonNum": 7,
-    "lesson": "Lección 07. Los números.",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
-    "type": "exercise",
-    "eu": "Zenbat dira hamar eta bederatzi?",
-    "es": "¿Cuántos son diez y nueve?"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "buru",
-    "es": "cabeza"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "labur",
-    "es": "corto"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "aurpegi",
-    "es": "cara"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "seme",
-    "es": "hijo"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "begi",
-    "es": "ojo"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "alaba",
-    "es": "hija"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "belarri",
-    "es": "oreja"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "anaia",
-    "es": "hermano"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "luze",
-    "es": "largo"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "vocabulary",
-    "eu": "neba",
-    "es": "hermano"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Aitaren txakurra. Amaren aurpegia. Ainararen begiak",
-    "es": "El perro del padre. La cara de la madre. Los ojos de Ainara."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Katuen belarriak. Gorkaren ama. Nahiaren burua. Aitaren aulkia",
-    "es": "Las orejas de los gatos. La madre de Gorka. La cabeza de Nahia. La silla del padre."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Gure etxea argia da",
-    "es": "Nuestra casa es clara."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Zuen ama gaztea da",
-    "es": "Vuestra madre es joven."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Beren irakaslea ona da",
-    "es": "Su profesor es bueno."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Nire begiak ez dira politak, itsusiak baino",
-    "es": "Mis ojos no son bonitos, sino feos."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Bere begiak beltzak dira",
-    "es": "Sus ojos son negros."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Gure etxe hau zaharra da",
-    "es": "Esta casa nuestra es vieja."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Zure belarri horiek luzeak dira",
-    "es": "Esas orejas tuyas son largas."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Landerren gurasoak gazteak dira",
-    "es": "Los padres de Lander son jóvenes."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Arantzaren begiak argiak dira",
-    "es": "Los ojos de Arantza son claros."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Mikelen begiak, ordea, ilunak",
-    "es": "Los ojos de Mikel, en cambio, oscuros."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Hau gure irakaslearen etxea da",
-    "es": "Esta es la casa de nuestro profesor"
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Hori Garmendia jaunaren etxea da",
-    "es": "Esa es la casa del señor Garmendia."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Horiek Ainararen umeak dira",
-    "es": "Esos son los niños de Ainara."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Nahiaren begiak ez dira txikiak, handiak baino",
-    "es": "Los ojos de Nahia no son pequeños, sino grandes."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Txakurren belarriak ez dira laburrak, luzeak baino",
-    "es": "Las orejas de los perros no son cortas, sino largas."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Zure semeak handiak dira",
-    "es": "Tus hijos son grandes."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Beren semeak, ordea, txikiak",
-    "es": "Sus hijos, en cambio, pequeños."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Mikel, nor da mutil hori? Mutil hori nire anaia da",
-    "es": "Mikel, ¿quién es ese chico? Ese chico es mi hermano."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Arantza, nor da mutil hori? Mutil hori nire neba da",
-    "es": "Arantza, ¿quién es ese chico? Ese chico es mi hermano."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Zenbat dira Landerren anaiak? Landerren anaiak bi dira",
-    "es": "¿Cuántos son los hermanos de Lander? Los hermanos de Lander son dos."
-  },
-  {
-    "lessonNum": 8,
-    "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
-    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
-    "type": "exercise",
-    "eu": "Zenbat dira Nahiaren nebak? Nahiaren nebak hiru dira.",
-    "es": "¿Cuántos son los hermanos de Nahia? Los hermanos de Nahia son tres."
-  },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "gizon",
+  //   "es": "hombre"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "bat",
+  //   "es": "uno, una"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "emakume",
+  //   "es": "mujer"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "batzuk",
+  //   "es": "unos, unas"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "mutil",
+  //   "es": "chico"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "-A",
+  //   "es": "el / la"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "neska",
+  //   "es": "chica"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "-AK",
+  //   "es": "los / las"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "ikasgai",
+  //   "es": "lección"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "vocabulary",
+  //   "eu": "eta, ta",
+  //   "es": "y"
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Ni gizon bat naiz. Gizona naiz.",
+  //   "es": "Yo soy un hombre. Soy hombre ."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Zu mutila zara. Mutil bat zara.",
+  //   "es": "Tú eres chico . Eres un chico."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Ni mutila naiz. Mutil bat naiz",
+  //   "es": "Yo soy chico . Soy un chico."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Ainara emakumea da. Hura emakume bat da",
+  //   "es": "Ainara es mujer. Ella es una mujer."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Ni Ainara naiz. Emakume bat naiz",
+  //   "es": "Yo soy Ainara. Soy una mujer."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Mikel mutila da. Hura mutil bat da",
+  //   "es": "Mikel es chico. Él es un chico."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Ni Mikel naiz. Mutil bat naiz",
+  //   "es": "Yo soy Mikel. Soy un chico."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Arantza neska da. Neska bat da",
+  //   "es": "Arantza es chica. Es una chica."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Ni Arantza naiz. Neska bat naiz",
+  //   "es": "Yo soy Arantza. Soy una chica."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Gu gizonak gara. Gizon batzuk gara",
+  //   "es": "Nosotros somos hombres. Somos unos hombres."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Zuek neskak zarete. Neska batzuk zarete",
+  //   "es": "Vosotras sois chicas. Sois unas chicas."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Ainara eta ni neskak gara",
+  //   "es": "Ainara y yo somos chicas."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Arantza eta Ainara neskak dira",
+  //   "es": "Arantza y Ainara son chicas."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Gorka eta Mikel mutilak dira. Mutil batzuk dira",
+  //   "es": "Gorka y Mikel son chicos. Son unos chicos."
+  // },
+  // {
+  //   "lessonNum": 2,
+  //   "lesson": "Lección 02. El verbo ser en presente y el artículo. ¿Cómo decir? \"la casa\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia02.html",
+  //   "type": "exercise",
+  //   "eu": "Zu, Ainara, emakumea zara. Ni gizona naiz",
+  //   "es": "Tú, Ainara, eres mujer. Yo soy hombre."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "zer",
+  //   "es": "qué"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "ikastola",
+  //   "es": "escuela"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "nor",
+  //   "es": "quién"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "ikasgai",
+  //   "es": "lección"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "nortzuk",
+  //   "es": "quiénes"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "arratsalde",
+  //   "es": "tarde"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "zein",
+  //   "es": "cuál"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "aita",
+  //   "es": "padre"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "zeintzuk",
+  //   "es": "cuáles"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "ama",
+  //   "es": "madre"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "egun",
+  //   "es": "día"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "bai",
+  //   "es": "sí"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "jaun",
+  //   "es": "señor"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "ere",
+  //   "es": "también"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "andre, andere",
+  //   "es": "señora"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "ikasle",
+  //   "es": "alumno"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "irakasle",
+  //   "es": "profesor"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "vocabulary",
+  //   "eu": "gau",
+  //   "es": "noche"
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Nor zara zu? Ni Mikel naiz",
+  //   "es": "¿Quién eres tú? Yo soy Mikel."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Zer zara zu? Ni ikasle bat naiz.",
+  //   "es": "¿Qué eres tú? Yo soy un alumno."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Zer da Gorka? Gorka ere ikaslea da. Ikasle eta mutila",
+  //   "es": "¿Qué es Gorka? Gorka también es alumno. Alumno y chico."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Eta ni zer naiz? Zu irakaslea zara",
+  //   "es": "¿Y yo qué soy? Tú eres el profesor."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Zuek ikasleak zarete? Bai, jauna, gu ikasleak gara",
+  //   "es": "¿Vosotros sois alumnos? Sí, señor, nosotros somos alumnos."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Zein da irakaslea? Zu zara irakaslea. Irakaslea, zu zara",
+  //   "es": "¿Cuál es el profesor? Tú eres el profesor. El profesor eres tú."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Zer dira Arantza eta Nahia? Neska batzuk dira",
+  //   "es": "¿Qué son Arantza y Nahia ? Son unas chicas."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Haiek ere, ikasleak dira? Bai, andrea, Arantza eta Nahia ere ikasleak dira .",
+  //   "es": "Ellas también, ¿son alumnas? Si, señora, Arantza y Nahia también son alumnas."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Eta zu, Ainara, zer zara? Emakume bat. Ni ama naiz",
+  //   "es": "Y tú, Ainara, ¿qué eres? Una mujer. Yo soy la madre."
+  // },
+  // {
+  //   "lessonNum": 3,
+  //   "lesson": "Lección 03. Las interrogativas.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia03.html",
+  //   "type": "exercise",
+  //   "eu": "Eta aita nor da? Aita Andoni da. Andoni eta ni, aita eta ama gara .",
+  //   "es": "¿Y quién es el padre? El padre es Andoni . Andoni y yo somos el padre y la madre."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "gazte",
+  //   "es": "joven"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "gaizto",
+  //   "es": "malo"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "zahar",
+  //   "es": "viejo"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "gero",
+  //   "es": "luego, después"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "txiki",
+  //   "es": "pequeño"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "gaur",
+  //   "es": "hoy"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "handi",
+  //   "es": "grande"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "aitona",
+  //   "es": "abuelo"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "arte",
+  //   "es": "hasta"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "amona",
+  //   "es": "abuela"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "atzo",
+  //   "es": "ayer"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "ume",
+  //   "es": "niño, niña"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "on",
+  //   "es": "bueno"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "polit",
+  //   "es": "bonito"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "txar",
+  //   "es": "malo"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "laster",
+  //   "es": "pronto"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "oker",
+  //   "es": "torcido, malo"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "vocabulary",
+  //   "eu": "bihar",
+  //   "es": "mañana"
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Ikasle gaztea. Ikasle gazte bat. Irakasle zaharra",
+  //   "es": "El alumno joven. Un alumno joven. El profesor viejo."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Andre zahar bat. Gizon handia. Emakume txikia",
+  //   "es": "Una señora vieja. El hombre grande. La mujer pequeña."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Mutil okerra. Neska polita. Neska gazteak",
+  //   "es": "El chico malo. La chica bonita. Las chicas jóvenes."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Ume onak. Gizon zaharrak. Mutil txikiak",
+  //   "es": "Los niños buenos. Los hombres viejos. Los chicos pequeños."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Ume txiki batzuk. Neska gazte batzuk. Ikasle on batzuk",
+  //   "es": "Unos niños pequeños. Unas chicas jóvenes. Unos alumnos buenos."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Gu neska gazteak gara",
+  //   "es": "Nosotras somos chicas jóvenes."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Gorka eta Mikel ikasle onak dira",
+  //   "es": "Gorka y Mikel son alumnos buenos."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Aitona zaharra da",
+  //   "es": "El abuelo es viejo."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Amona ere zaharra da",
+  //   "es": "La abuela también es vieja."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Ama ona da",
+  //   "es": "La madre es buena."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Aita ere ona da",
+  //   "es": "El padre también es bueno."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Arantza, zer zara zu? Ni neska gaztea naiz",
+  //   "es": "Arantza, ¿qué eres tú? Yo soy una chica joven."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Gorka eta Mikel, ikasle onak dira? Bai, onak dira",
+  //   "es": "Gorka y Mikel, ¿son alumnos buenos? Sí, son buenos."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Aitona eta amona, zaharrak dira? Bai, jauna, zaharrak dira",
+  //   "es": "El abuelo y la abuela, ¿son viejos? Sí, señor, son viejos."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Lander ume ona da? Bai, jauna, Lander ume ona da",
+  //   "es": "¿Lander es un niño bueno? Sí, señor, Lander es un niño bueno."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Zuek ikasleak zarete, ikasle gazteak",
+  //   "es": "Vosotros sois alumnos, los alumnos jóvenes."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Ni irakaslea naiz, irakasle zaharra",
+  //   "es": "Yo soy el profesor, el profesor viejo."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Mikel mutil handia da",
+  //   "es": "Mikel es un chico grande."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Lander ume txikia da",
+  //   "es": "Lander es un niño pequeño."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Arantza neska polita da",
+  //   "es": "Arantza es una chica bonita."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Aitona eta amona onak dira",
+  //   "es": "El abuelo y la abuela son buenos."
+  // },
+  // {
+  //   "lessonNum": 4,
+  //   "lesson": "Lección 04. Los adjetivos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia04.html",
+  //   "type": "exercise",
+  //   "eu": "Zuek ere, neska eta mutil onak zarete",
+  //   "es": "Vosotros también sois chicas y chicos buenos."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "txakur",
+  //   "es": "perro"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "eder",
+  //   "es": "hermoso, bello"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "katu",
+  //   "es": "gato"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "itsusi",
+  //   "es": "feo"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "etxe",
+  //   "es": "casa"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "argi",
+  //   "es": "claro, luz"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "ate",
+  //   "es": "puerta"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "ilun",
+  //   "es": "oscuro"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "leiho",
+  //   "es": "ventana"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "zuri",
+  //   "es": "blanco"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "mahai",
+  //   "es": "mesa"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "vocabulary",
+  //   "eu": "beltz",
+  //   "es": "negro"
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Txakur hau. Katu hori. Etxe hura.",
+  //   "es": "Este perro. Ese gato. Aquella casa."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Ate hauek. Leiho horiek. Mahai haiek.",
+  //   "es": "Estas puertas. Esas ventanas. Aquellas mesas."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Etxe hau ederra da",
+  //   "es": "Esta casa es hermosa."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Mahai hori beltza da",
+  //   "es": "Esa mesa es negra."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Txakur hura okerra da.",
+  //   "es": "Aquel perro es torcido."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Katu hauek politak dira",
+  //   "es": "Estos gatos son bonitos."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Mutil horiek gazteak dira",
+  //   "es": "Esos chicos son jóvenes."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Leiho haiek txikiak dira",
+  //   "es": "Aquellas ventanas son pequeñas."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Zer dira haiek? Haiek txakurrak dira",
+  //   "es": "¿Qué son aquellos? Aquellos son perros."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Nor da hori? Hori Gorka dà",
+  //   "es": "¿Quién es ese? Ese es Gorka."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Nortzuk dira horiek? Horiek aita eta ama dira",
+  //   "es": "¿Quiénes son esos? Esos son el padre y la madre."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Nor da gizon hori? Gizon hori Andoni da",
+  //   "es": "¿Quién es ese hombre? Ese hombre es Andoni."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Mahai hau beltza da? Bai, jauna, mahai hori beltza da",
+  //   "es": "¿Esta mesa es negra? Sí, señor, esa mesa es negra."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Mutil horiek onak dira? Bai, jauna, mutil horiek onak dira",
+  //   "es": "¿Esos chicos son buenos? Sí, señor, esos chicos son buenos."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Txakur hori okerra da? Bai, jauna, txakur hori okerra eta gaiztoa da",
+  //   "es": "¿Ese perro es torcido? Sí, señor, ese perro es torcido y malo."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Etxe hau argia eta polita da",
+  //   "es": "Esta casa es clara y bonita."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Neska horiek gazteak dira",
+  //   "es": "Esas chicas son jóvenes."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Katu hori ederra da",
+  //   "es": "Ese gato es hermoso."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Leiho hauek txikiak dira",
+  //   "es": "Estas ventanas son pequeñas."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Txakur haiek beltzak dira",
+  //   "es": "Aquellos perros son negros."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Ate hura handia da",
+  //   "es": "Aquella puerta es grande."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Txakur txiki hori gaiztoa da",
+  //   "es": "Ese perro pequeño es malo."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Mahai beltz hau handia da",
+  //   "es": "Esta mesa negra es grande."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Neska gazte haiek ederrak dira",
+  //   "es": "Aquellas chicas jóvenes son hermosas."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Etxe ilun horiek itsusiak dira",
+  //   "es": "Esas casas oscuras son feas."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Katu polit hauek zuriak dira",
+  //   "es": "Estos gatos bonitos son blancos."
+  // },
+  // {
+  //   "lessonNum": 5,
+  //   "lesson": "Lección 05. Los demostrativos.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia05.html",
+  //   "type": "exercise",
+  //   "eu": "Mahai handi hauek txarrak dira",
+  //   "es": "Estas mesas grandes son malas."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "telebista",
+  //   "es": "televisión"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "aulki",
+  //   "es": "silla"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "irrati",
+  //   "es": "radio"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "horma",
+  //   "es": "pared"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "mugikor",
+  //   "es": "teléfono móvil"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "teilatu",
+  //   "es": "tejado"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "ordenagailu",
+  //   "es": "ordenador"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "baino",
+  //   "es": "sino"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "urdin",
+  //   "es": "azul"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "ez",
+  //   "es": "no"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "ala / edo",
+  //   "es": "o / o"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "gorri",
+  //   "es": "rojo"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "ordea",
+  //   "es": "en cambio"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "vocabulary",
+  //   "eu": "berde",
+  //   "es": "verde"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Hori irratia da, ez da telebista",
+  //   "es": "Eso es la radio, no es el televisor."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Mugikor horiek txikiak dira, ez dira handiak",
+  //   "es": "Esos móviles son pequeños, no son grandes."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Gizon haiek gazteak dira, ez dira zaharrak",
+  //   "es": "Aquellos hombres son jóvenes, no son viejos."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Teilatu hau gorria da, ez da beltza",
+  //   "es": "Este tejado es rojo, no es negro."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Zuek mutilak eta neskak zarete, mutil eta neska gazteak",
+  //   "es": "Vosotros sois chicos y chicas, chicos y chicas jóvenes."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Txakur txiki hori ez da ona, okerra baino",
+  //   "es": "Ese perro pequeño no es bueno, sino torcido."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Lander ez da mutil handia ume txikia baino",
+  //   "es": "Lander no es un chico grande, sino un niño pequeño."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Zuek ez zarete ikasleak, irakasleak baino",
+  //   "es": "Vosotros no sois alumnos, sino profesores."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Gu ez gara zaharrak, gazteak baino",
+  //   "es": "Nosotros no somos viejos, sino jóvenes."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Horma hauek ez dira beltzak, zuriak baino",
+  //   "es": "Estas paredes no son negras, sino blancas."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Hau mahaia da? Ez, hori ez da mahaia, aulkia baino",
+  //   "es": "¿Esto es la mesa? No, esto no es la mesa, sino la silla"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Hori atea da? Ez, hori ez da atea, leihoa baino",
+  //   "es": "¿Eso es la puerta? No, eso no es la puerta, sino la ventana"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Etxe hau argia da? Ez, ez da argia, iluna baino",
+  //   "es": "¿Esta casa es clara? No, no es clara, sino oscura"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Zer dira horiek, mugikorrak ala ordenagailuak?",
+  //   "es": "¿Qué son esos, móviles u ordenadores?"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Zer gara gu, zaharrak ala gazteak?",
+  //   "es": "¿Qué somos nosotros, viejos o jóvenes?"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Mutil onak ala okerrak dira?",
+  //   "es": "¿Son chicos buenos o torcidos?"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Etxe hau polita ala itsusia da?",
+  //   "es": "¿Esta casa es bonita o fea?"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Telebista hura beltza da; irrati hau, ordea, zuria",
+  //   "es": "Aquella televisión es negra; esta radio, en cambio, blanca"
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Atea handia da; leihoa, ordea, txikia .",
+  //   "es": "La puerta es grande; la ventana, en cambio, pequeña."
+  // },
+  // {
+  //   "lessonNum": 6,
+  //   "lesson": "Lección 06. La negación.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia06.html",
+  //   "type": "exercise",
+  //   "eu": "Euskal bandera, ikurriña, zuria, gorria eta berdea da",
+  //   "es": "La bandera vasca, la ikurriña, es blanca, roja y verde."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "bat",
+  //   "es": "uno"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "bi",
+  //   "es": "dos"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hiru",
+  //   "es": "tres"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "lau",
+  //   "es": "cuatro"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "bost",
+  //   "es": "cinco"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "sei",
+  //   "es": "seis"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "zazpi",
+  //   "es": "siete"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "zortzi",
+  //   "es": "ocho"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "bederatzi",
+  //   "es": "nueve"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamar",
+  //   "es": "diez"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamaika",
+  //   "es": "once"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamabi",
+  //   "es": "doce"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamahiru",
+  //   "es": "trece"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamalau",
+  //   "es": "catorce"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamabost",
+  //   "es": "quince"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamasei",
+  //   "es": "dieciséis"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamazazpi",
+  //   "es": "diecisiete"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hamazortzi",
+  //   "es": "dieciocho"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "hemeretzi",
+  //   "es": "diecinueve"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "zenbat",
+  //   "es": "cuánto/s"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "vocabulary",
+  //   "eu": "gurasoak",
+  //   "es": "los padres"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Ni ikasle bat naiz",
+  //   "es": "Yo soy un alumno."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Gu sei ikasle gara",
+  //   "es": "Nosotros somos seis alumnos."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Lau mutil eta bi neska gara",
+  //   "es": "Somos cuatro chicos y dos chicas."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Haiek hamalau dira: sei mutil eta zortzi neska",
+  //   "es": "Ellos son catorce: seis chicos y ocho chicas."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Hiru eta bi bost dira",
+  //   "es": "Tres y dos son cinco."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira zazpi eta bi? Zazpi eta bi bederatzi dira",
+  //   "es": "¿Cuántos son siete y dos? Siete y dos son nueve."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat ikasle zarete? Hamazazpi ikasle gara",
+  //   "es": "¿Cuántos alumnos sois? Somos diecisiete alumnos."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira hamar eta bederatzi? Hemeretzi dira",
+  //   "es": "¿Cuántos son diez y nueve? Son diecinueve."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Bost eta lau hamar dira? Ez, bost eta lau ez dira hamar, bederatzi baino",
+  //   "es": "¿Cinco y cuatro son diez? No, cinco y cuatro no son diez, sino nueve."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Hiru etxe gorriak dira; bat beltza da",
+  //   "es": "Tres casas son rojas, una es negra."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Bost ume dira: hiru mutil eta bi neska",
+  //   "es": "Son cinco niños: tres chicos y dos chicas."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Mahai bat eta lau aulki",
+  //   "es": "Una mesa y cuatro sillas."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Bi ate eta leiho bat",
+  //   "es": "Dos puertas y una ventana."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Hamalau telebista eta irrati bat",
+  //   "es": "Catorce televisiones y una radio."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Txakur handi bat eta hiru txakur txiki",
+  //   "es": "Un perro grande y tres perros pequeños."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Hamar eta bi, hamabi; hamar eta lau, hamalau; hamar eta sei, hamasei; hamar eta zortzi, hamazortzi",
+  //   "es": "Diez y dos, doce; diez y cuatro, catorce; diez y seis, dieciséis; diez y ocho, dieciocho."
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira hamar eta bat?",
+  //   "es": "¿Cuántos son diez y uno?"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira hamar eta hiru?",
+  //   "es": "¿Cuántos son diez y tres?"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira hamar eta bost?",
+  //   "es": "¿Cuántos son diez y cinco?"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira hamar eta zazpi?",
+  //   "es": "¿Cuántos son diez y siete?"
+  // },
+  // {
+  //   "lessonNum": 7,
+  //   "lesson": "Lección 07. Los números.",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia07.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira hamar eta bederatzi?",
+  //   "es": "¿Cuántos son diez y nueve?"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "buru",
+  //   "es": "cabeza"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "labur",
+  //   "es": "corto"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "aurpegi",
+  //   "es": "cara"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "seme",
+  //   "es": "hijo"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "begi",
+  //   "es": "ojo"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "alaba",
+  //   "es": "hija"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "belarri",
+  //   "es": "oreja"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "anaia",
+  //   "es": "hermano"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "luze",
+  //   "es": "largo"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "vocabulary",
+  //   "eu": "neba",
+  //   "es": "hermano"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Aitaren txakurra. Amaren aurpegia. Ainararen begiak",
+  //   "es": "El perro del padre. La cara de la madre. Los ojos de Ainara."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Katuen belarriak. Gorkaren ama. Nahiaren burua. Aitaren aulkia",
+  //   "es": "Las orejas de los gatos. La madre de Gorka. La cabeza de Nahia. La silla del padre."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Gure etxea argia da",
+  //   "es": "Nuestra casa es clara."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Zuen ama gaztea da",
+  //   "es": "Vuestra madre es joven."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Beren irakaslea ona da",
+  //   "es": "Su profesor es bueno."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Nire begiak ez dira politak, itsusiak baino",
+  //   "es": "Mis ojos no son bonitos, sino feos."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Bere begiak beltzak dira",
+  //   "es": "Sus ojos son negros."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Gure etxe hau zaharra da",
+  //   "es": "Esta casa nuestra es vieja."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Zure belarri horiek luzeak dira",
+  //   "es": "Esas orejas tuyas son largas."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Landerren gurasoak gazteak dira",
+  //   "es": "Los padres de Lander son jóvenes."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Arantzaren begiak argiak dira",
+  //   "es": "Los ojos de Arantza son claros."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Mikelen begiak, ordea, ilunak",
+  //   "es": "Los ojos de Mikel, en cambio, oscuros."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Hau gure irakaslearen etxea da",
+  //   "es": "Esta es la casa de nuestro profesor"
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Hori Garmendia jaunaren etxea da",
+  //   "es": "Esa es la casa del señor Garmendia."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Horiek Ainararen umeak dira",
+  //   "es": "Esos son los niños de Ainara."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Nahiaren begiak ez dira txikiak, handiak baino",
+  //   "es": "Los ojos de Nahia no son pequeños, sino grandes."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Txakurren belarriak ez dira laburrak, luzeak baino",
+  //   "es": "Las orejas de los perros no son cortas, sino largas."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Zure semeak handiak dira",
+  //   "es": "Tus hijos son grandes."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Beren semeak, ordea, txikiak",
+  //   "es": "Sus hijos, en cambio, pequeños."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Mikel, nor da mutil hori? Mutil hori nire anaia da",
+  //   "es": "Mikel, ¿quién es ese chico? Ese chico es mi hermano."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Arantza, nor da mutil hori? Mutil hori nire neba da",
+  //   "es": "Arantza, ¿quién es ese chico? Ese chico es mi hermano."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira Landerren anaiak? Landerren anaiak bi dira",
+  //   "es": "¿Cuántos son los hermanos de Lander? Los hermanos de Lander son dos."
+  // },
+  // {
+  //   "lessonNum": 8,
+  //   "lesson": "Lección 08. Los posesivos. ¿Cómo decir? \"del amigo\".",
+  //   "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia08.html",
+  //   "type": "exercise",
+  //   "eu": "Zenbat dira Nahiaren nebak? Nahiaren nebak hiru dira.",
+  //   "es": "¿Cuántos son los hermanos de Nahia? Los hermanos de Nahia son tres."
+  // },
   {
     "lessonNum": 9,
     "lesson": "Lección 09. Las declinaciones: ¿Cómo decir? \"de San Sebastián \".",
@@ -5173,7 +5172,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Gu gure kalean gabiltza",
-    "es": "Vosotros andáis en vuestra ciudad."
+    "es": "Nosotros andamos en nuestra calle."
   },
   {
     "lessonNum": 14,
@@ -5181,7 +5180,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Zuek zuen hirian zabiltzate",
-    "es": "Ando con el ordenador."
+    "es": "Vosotros andáis en vuestra ciudad."
   },
   {
     "lessonNum": 14,
@@ -5189,7 +5188,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Ordenagailuarekin nabil",
-    "es": "Con los amigos y los padres."
+    "es": "Ando con el ordenador."
   },
   {
     "lessonNum": 14,
@@ -5197,7 +5196,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Lagunekin eta gurasoekin",
-    "es": "Ando en los montes con mi perro."
+    "es": "Con los amigos y los padres."
   },
   {
     "lessonNum": 14,
@@ -5205,7 +5204,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Mendietan nabil nire txakurrarekin",
-    "es": "Gorka anda en el bosque con su tío."
+    "es": "Ando en los montes con mi perro."
   },
   {
     "lessonNum": 14,
@@ -5213,7 +5212,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Gorka basoan dabil bere osabarekin",
-    "es": "Yo no ando en los bosques, sino en las calles del pueblo."
+    "es": "Gorka anda en el bosque con su tío."
   },
   {
     "lessonNum": 14,
@@ -5221,7 +5220,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Ni ez nabil basoetan, herriko kaleetatik baino",
-    "es": "¿Por dónde andáis vosotros? Andamos por el camino del río con amigos."
+    "es": "Yo no ando en los bosques, sino en las calles del pueblo."
   },
   {
     "lessonNum": 14,
@@ -5229,7 +5228,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Nondik zabiltzate zuek? Ibaiko bidetik gabiltza lagunekin",
-    "es": "Nuestros amigos van con sus tías al cine."
+    "es": "¿Por dónde andáis vosotros? Andamos por el camino del río con amigos."
   },
   {
     "lessonNum": 14,
@@ -5237,7 +5236,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Gure lagunak beren izebekin zinemara doaz",
-    "es": "¿Dónde anda tu amigo? Mi amigo anda en la campa de la iglesia."
+    "es": "Nuestros amigos van con sus tías al cine."
   },
   {
     "lessonNum": 14,
@@ -5245,7 +5244,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Non dabil zure laguna? Nire laguna elizako landan dabil",
-    "es": "¿Con quién andas ahora? Ando con mi marido."
+    "es": "¿Dónde anda tu amigo? Mi amigo anda en la campa de la iglesia."
   },
   {
     "lessonNum": 14,
@@ -5253,7 +5252,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Norekin zabiltza orain? Nire senarrarekin nabil",
-    "es": "Y tu tía, ¿con quién vive? Con su marido."
+    "es": "¿Con quién andas ahora? Ando con mi marido."
   },
   {
     "lessonNum": 14,
@@ -5261,7 +5260,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Eta zure izeba, norekin bizi da? Bere senarrarekin",
-    "es": "¿Vosotros con quiénes andáis? Andamos con nuestras esposas."
+    "es": "Y tu tía, ¿con quién vive? Con su marido."
   },
   {
     "lessonNum": 14,
@@ -5269,7 +5268,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Zuek nortzuekin zabiltzate? Gure emazteekin gabiltza",
-    "es": "Asier , es el marido de Ainara y, Ainara, es la esposa de Asier."
+    "es": "¿Vosotros con quiénes andáis? Andamos con nuestras esposas."
   },
   {
     "lessonNum": 14,
@@ -5277,7 +5276,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Asier, Ainararen senarra da eta, Ainara, Asierren emaztea.",
-    "es": "Asier vive allí con su esposa."
+    "es": "Asier, es el marido de Ainara y, Ainara, es la esposa de Asier."
   },
   {
     "lessonNum": 14,
@@ -5285,7 +5284,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Asier han bizi da bere emaztearekin .",
-    "es": "Hoy hace calor y vamos a Ondarroa, a su playa; con la toalla, el niki, el traje de baño y las sandalias; luego, a la tarde , por el paseo, a la playa de Mutriku."
+    "es": "Asier vive allí con su esposa."
   },
   {
     "lessonNum": 14,
@@ -5293,7 +5292,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Gaur beroa dago eta Ondarroara goaz, bere hondartzara, eskuoihala, nikia, bainujantzia eta sandaliekin; gero, arratsaldean, ibiltokitik, Mutrikuko hondartzara .",
-    "es": "Es verano pero hace frío y voy al concierto de Zea Mays ¡con pantalón, jersey y calcetines!"
+    "es": "Hoy hace calor y vamos a Ondarroa, a su playa; con la toalla, el niki, el traje de baño y las sandalias; luego, a la tarde, por el paseo, a la playa de Mutriku."
   },
   {
     "lessonNum": 14,
@@ -5301,6 +5300,14 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
     "type": "exercise",
     "eu": "Uda da baina hotza dago eta praka, jertsa eta galtzetinekin Zea Maysen kontzertura noa!",
+    "es": "Es verano pero hace frío y voy al concierto de Zea Mays ¡con pantalón, jersey y calcetines!"
+  },
+  {
+    "lessonNum": 14,
+    "lesson": "Lección 14. Las declinaciones: ¿Cómo decir? \"con el amigo\". El verbo andar en presente.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia14.html",
+    "type": "exercise",
+    "eu": "Negua da eta ez noa gonarekin; prakak, berokia, eskularruak eta kapelarekin baino",
     "es": "Es invierno y no voy con falda, sino con pantalones, abrigo, guantes y sombrero."
   },
   {
@@ -17430,126 +17437,5 @@ const entries = [
     "type": "exercise",
     "eu": "Jon beti berandu, noiz dauka itxaropena etortzeko? Laster ez bada etortzen, ni neu banoa!",
     "es": "Jon siempre tarde, ¿cuándo tiene la esperanza de venir? Si no viene pronto, yo yo mismo ¡ya me voy!"
-  },
-  // REAL WORLD begins //
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/herri-urrats-euskararen-aldeko-besta-nazionala-bilakatzera-deitu-dute_2157000_102.html",
-    "type": "real-world",
-    "eu": "Herri Urrats euskararen aldeko besta nazional bilakatzera deitu dute",
-    "es": "Han fet una crida a convertir Herri Urrats en una festa nacional en favor de l'euskera."
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/",
-    "type": "real-world",
-    "eu": "Gaurtik ostiralera epaituko dute Agnes Lassale irakaslea hil zuen gaztea",
-    "es": "Des d’avui fins divendres jutjaran el jove que va matar la professora Agnes Lassale"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/kultura/pantxoa-eta-peiori-emango-diete-adarra-saria_2134567_102.html",
-    "type": "real-world",
-    "eu": "Pantxoa eta Peiori emango diete Adarra saria",
-    "es": "Donaran el premi Adarra a Pantxoa i Peio"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/migratzaileen-egoera-erregularizatzeko-bulegoetan-ilararik-ez_2134568_102.html",
-    "type": "real-world",
-    "eu": "Migratzaileen egoera erregularizatzeko bulegoetan ilararik ez",
-    "es": "No hi ha cues a les oficines per regularitzar la situació dels migrants"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/jaiotza-tasaren-beherakadari-lotutako-murrizketek-nafarroako-ikastolei-eman-diete-hozkada-handiena_2134569_102.html",
-    "type": "real-world",
-    "eu": "Jaiotza tasaren beherakadari lotutako murrizketek Nafarroako ikastolei eman diete hozkada handiena",
-    "es": "Les retallades vinculades a la baixada de la natalitat han afectat sobretot les ikastoles de Navarra"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/gaurtik-ostiralera-epaituko-dute-agnes-lassale-irakaslea-hil-zuen-gaztea_2134570_102.html",
-    "type": "real-world",
-    "eu": "Gaurtik ostiralera epaituko dute Agnes Lassale irakaslea hil zuen gaztea",
-    "es": "Des d’avui fins divendres jutjaran el jove que va matar la professora Agnes Lassale"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/ekonomia/energia-eskaria-moteldu-egin-da-munduan-eta-argindar-eskaria-bizkortu_2134571_102.html",
-    "type": "real-world",
-    "eu": "Energia eskaria moteldu egin da munduan, eta argindar eskaria bizkortu",
-    "es": "La demanda d’energia s’ha alentit al món, mentre que la demanda d’electricitat s’ha accelerat"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/ekonomia/2026-urte-elektrikoa_2151725_102.html",
-    "type": "real-world",
-    "eu": "2026a, urte elektrikoa",
-    "es": "El 2026, un any elèctric"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
-    "type": "real-world",
-    "eu": "Ongi etorri. Hau euskara da",
-    "es": "Benvinguts. Això és euskara"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
-    "type": "real-world",
-    "eu": "Korrikaren hamabigarren egunaren bueltan antolatutako ekintza izan da.",
-    "es": "Ha estat una activitat organitzada al voltant del dotzè dia de la Korrika."
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
-    "type": "real-world",
-    "eu": "Gramatika pixka bat ere landu dute: «Ni Irati naiz. Zuek jatorrak zarete».",
-    "es": "També han treballat una mica de gramàtica: «Jo sóc l’Irati. Vosaltres sou amables»."
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/ongi-etorri-hau-euskara-da_2157107_102.html",
-    "type": "real-world",
-    "eu": "Beste ariketa batzuk egin dituzte, euskara Interneten ikasten hasteko zer baliabide dagoen ikusi dute...",
-    "es": "Han fet altres exercicis, han vist quins recursos hi ha per començar a aprendre euskara a Internet..."
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/asilo-eskatzaileentzako-urgentziazko-irtenbideak-eskatu-dituzte-gasteizko-hainbat-bizilagunek_2157018_102.html",
-    "type": "real-world",
-    "eu": "Asilo eskatzaileentzako «urgentziazko» irtenbideak eskatu dituzte Gasteizko hainbat bizilagunek",
-    "es": "Diversos veïns de Gasteiz han demanat solucions «urgents» per als sol·licitants d’asil"
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/asilo-eskatzaileentzako-urgentziazko-irtenbideak-eskatu-dituzte-gasteizko-hainbat-bizilagunek_2157018_102.html",
-    "type": "real-world",
-    "eu": "Salburua auzoko harrera sarea eratu dute errefuxiatuei laguntza emateko.",
-    "es": "Han creat una xarxa d’acollida al barri de Salburua per ajudar les persones refugiades."
-  },
-  {
-    "lessonNum": null,
-    "lesson": "Exemples reals",
-    "lessonUrl": "https://www.berria.eus/euskal-herria/asilo-eskatzaileentzako-urgentziazko-irtenbideak-eskatu-dituzte-gasteizko-hainbat-bizilagunek_2157018_102.html",
-    "type": "real-world",
-    "eu": "Salburua auzoko bizilagun asko aspaldi ari dira antolatzen asilo eskatzaileei laguntza emateko, eta harrera sare bat osatu dute helburu horrekin.",
-    "es": "Molts veïns del barri de Salburua fa temps que s’organitzen per ajudar els sol·licitants d’asil, i amb aquest objectiu han format una xarxa d’acollida."
   }
 ];
