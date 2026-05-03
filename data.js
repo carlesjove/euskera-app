@@ -5575,6 +5575,326 @@ const entries = [
     "es": "Ellos todas las tardes no suelen andar de ahí a allí ."
   },
   {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "honetan",
+    "es": "en este"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horretan",
+    "es": "en ese"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hartan",
+    "es": "en aquel"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hauetan",
+    "es": "en estos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horietan",
+    "es": "en esos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "haietan",
+    "es": "en aquellos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hemen",
+    "es": "aquí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hor",
+    "es": "ahí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "han",
+    "es": "allí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "honetatik",
+    "es": "de este"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horretatik",
+    "es": "de ese"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hartatik",
+    "es": "de aquel"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hauetatik",
+    "es": "de estos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horietatik",
+    "es": "de esos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "haietatik",
+    "es": "de aquellos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hemendik",
+    "es": "de aquí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hortik",
+    "es": "de ahí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "handik",
+    "es": "de allí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "honetara",
+    "es": "a este"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horretara",
+    "es": "a ese"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hartara",
+    "es": "a aquel"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hauetara",
+    "es": "a estos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horietara",
+    "es": "a esos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "haietara",
+    "es": "a aquellos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hona",
+    "es": "a aquí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horra",
+    "es": "a ahí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hara",
+    "es": "a allí"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "honekin",
+    "es": "con este"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horrekin",
+    "es": "con ese"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "harekin",
+    "es": "con aquel"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hauekin",
+    "es": "con estos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "horiekin",
+    "es": "con esos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "haiekin",
+    "es": "con aquellos"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "nirekin",
+    "es": "conmigo"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "hirekin",
+    "es": "contigo"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "harekin",
+    "es": "consigo (con él)"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "gurekin",
+    "es": "con nosotros"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "zurekin",
+    "es": "contigo / con usted"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "zuekin",
+    "es": "con vosotros / con ustedes"
+  },
+  {
+    "lessonNum": 15,
+    "lesson": "Lección 15. ¿Cómo decir? \"yo suelo venir\" (el presente habitual). El gerundio.",
+    "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia15.html",
+    "type": "vocabulary",
+    "eu": "haiekin",
+    "es": "consigo (con ellos)"
+  },
+  {
     "lessonNum": 16,
     "lesson": "Lección 16. El presente a través del gerundio + verbo auxiliar.",
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia16.html",
