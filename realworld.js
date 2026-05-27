@@ -135,6 +135,14 @@ const realWorld = [
     "eu": "Nafarroako Gobernuak torturaren beste zazpi biktima aitortu ditu",
     "es": "El Govern de Navarra ha reconegut set víctimes més de tortura"
   },
+  {
+    "lessonNum": null,
+    "lesson": "Exemples reals",
+    "lessonUrl": "https://www.berria.eus/euskal-herria/seaskak-ikasleek-desobedientziara-joko-dute-euskaraz-erantzunen-dute-baxoko-matematikako-azterketa_2157673_102.html",
+    "type": "real-world",
+    "eu": "Seaskako ikasleek desobedientziara joko dute: euskaraz erantzunen dute baxoko matematikako azterketan",
+    "es": "Els alumnes de SEASKA recorreran a la desobediència: respondran en euskera en l'examen de matemàtiques de baixa"
+  },
   // {
   //   "lessonNum": null,
   //   "lesson": "Exemples reals",
