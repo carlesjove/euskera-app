@@ -377,8 +377,8 @@
           Només vocabulari
         </label>
         <label class="real-world-toggle">
-          <input type="checkbox" id="only-examples">
-          Només exemples
+          <input type="checkbox" id="only-exercises">
+          Només frases
         </label>
       </div>
     </div>
@@ -432,7 +432,7 @@
     let includeRealWorld = false;
     let onlyVerbs = false;
     let onlyVocabulary = false;
-    let onlyExamples = false;
+    let onlyExercises = false;
     const maxLessonNums = [...new Set([...entries, ...extraVocabulary].filter(e => e.lessonNum !== null).map(e => e.lessonNum))].sort((a, b) => a - b);
     let minLesson = maxLessonNums.at(0);
     let maxLesson = maxLessonNums.at(-1);
@@ -450,8 +450,8 @@
       if (onlyVerbs) {
         return verbs.filter(e => inLessonRange(e));
       }
-      if (onlyExamples) {
-        return allEntries.filter(e => e.type === "real-world");
+      if (onlyExercises) {
+        return allEntries.filter(e => e.type === "exercise");
       }
       return allEntries.filter(e => {
         if (e.type === "real-world") return includeRealWorld;
@@ -494,7 +494,7 @@
     const includeRealWorldChk  = document.getElementById("include-real-world");
     const onlyVerbsChk         = document.getElementById("only-verbs");
     const onlyVocabularyChk    = document.getElementById("only-vocabulary");
-    const onlyExamplesChk      = document.getElementById("only-examples");
+    const onlyExercisesChk     = document.getElementById("only-exercises");
 
     // Populate lesson selectors
     function populateMinSelect() {
@@ -554,8 +554,8 @@
       render();
     });
 
-    onlyExamplesChk.addEventListener("change", () => {
-      onlyExamples = onlyExamplesChk.checked;
+    onlyExercisesChk.addEventListener("change", () => {
+      onlyExercises = onlyExercisesChk.checked;
       buildQueue();
       render();
     });
