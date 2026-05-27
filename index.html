@@ -369,10 +369,6 @@
           Exemples reals
         </label>
         <label class="real-world-toggle">
-          <input type="checkbox" id="include-verbs">
-          Verbs
-        </label>
-        <label class="real-world-toggle">
           <input type="checkbox" id="only-verbs">
           Només verbs
         </label>
@@ -434,7 +430,6 @@
     let direction = "eu->es"; // or "es->eu"
     let answerVisible = false;
     let includeRealWorld = false;
-    let includeVerbs = false;
     let onlyVerbs = false;
     let onlyVocabulary = false;
     let onlyExamples = false;
@@ -458,9 +453,8 @@
       if (onlyExamples) {
         return allEntries.filter(e => e.type === "real-world");
       }
-      return [...allEntries, ...(includeVerbs ? verbs : [])].filter(e => {
+      return allEntries.filter(e => {
         if (e.type === "real-world") return includeRealWorld;
-        if (e.type === "verbs") return includeVerbs && inLessonRange(e);
         return inLessonRange(e);
       });
     }
@@ -498,7 +492,6 @@
     const lessonMinSelect      = document.getElementById("lesson-min-select");
     const lessonMaxSelect      = document.getElementById("lesson-max-select");
     const includeRealWorldChk  = document.getElementById("include-real-world");
-    const includeVerbsChk      = document.getElementById("include-verbs");
     const onlyVerbsChk         = document.getElementById("only-verbs");
     const onlyVocabularyChk    = document.getElementById("only-vocabulary");
     const onlyExamplesChk      = document.getElementById("only-examples");
@@ -545,12 +538,6 @@
 
     includeRealWorldChk.addEventListener("change", () => {
       includeRealWorld = includeRealWorldChk.checked;
-      buildQueue();
-      render();
-    });
-
-    includeVerbsChk.addEventListener("change", () => {
-      includeVerbs = includeVerbsChk.checked;
       buildQueue();
       render();
     });
