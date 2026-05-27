@@ -451,7 +451,7 @@
         return verbs.filter(e => inLessonRange(e));
       }
       if (onlyExercises) {
-        return allEntries.filter(e => e.type === "exercise");
+        return allEntries.filter(e => e.type === "exercise" && inLessonRange(e));
       }
       return allEntries.filter(e => {
         if (e.type === "real-world") return includeRealWorld;
