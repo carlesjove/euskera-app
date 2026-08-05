@@ -9748,7 +9748,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia33.html",
     "type": "exercise",
     "eu": "Nigatik joan zara",
-    "es": "Te ha ido por mi."
+    "es": "Has marxat per mi? / per culpa meva?"
   },
   {
     "lessonNum": 33,
@@ -13332,7 +13332,7 @@ const entries = [
     "lessonUrl": "https://kondaira.net/ikastaroa/Ikasgaia47.html",
     "type": "exercise",
     "eu": "Ni bezain berandu zoazte gaur",
-    "es": "Zertarako erosi duzu hainbeste ogi?"
+    "es": "Hoy vais tan tarde como yo"
   },
   {
     "lessonNum": 47,
